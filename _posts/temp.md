@@ -10,3 +10,5 @@ abstract:
 message: 
 ---
 [KillStudentServer.zip](https://www.lanzous.com/i294avg)
+
+[FIX.BAT DOWNLOAD](/img/Temp/Fix.bat)

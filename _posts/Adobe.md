@@ -2,7 +2,7 @@
 layout:     post
 title:      Adobe 系列软件
 subtitle:   http://www.adobe.com
-date:       2018-11-13
+date:       2018-11-25
 author:     Brywmzl
 header-img: img/Adobe/bg.jpg
 catalog: true
@@ -69,7 +69,7 @@ http://www.adobe.com
 *2018-11-13（由于法律相关规定，Zer0Cod3的主页、Youtube的视频、Patcher下载地址都消失了）*
 
 
-> [~~Zer0Cod3~~](https://zer0cod3.weebly.com)
+> [~~Zer0Cod3~~](https://zer0cod3.weebly.com)虽然已不再404 但好像不是原来的Zer0Cod3了
 > [~~How to install any cc 2019 application properly~~](https://zer0cod3.weebly.com/how-to-install.html)
 
 **Zer0Cod3 all in one Adobe CC 2019 patcher**
@@ -132,6 +132,7 @@ http://www.adobe.com
 |PatchFile|
 |:-:|
 |[Adobe.After.Effects.CC.2019.[x64].Patch-MPT.zip](https://www43.zippyshare.com/v/9ttc2SB7/file.html)|
+|[Adobe.Audition.CC.2019.[x64].Patch-MPT.zip](https://www118.zippyshare.com/v/hyFn7bx2/file.html)|
 |[Adobe.Character.Animator.CC.2019.[x64].Patch-MPT.zip](https://www43.zippyshare.com/v/z5DTkJ8D/file.html)|
 |[Adobe.Dreamweaver.CC.2019.[x64].Patch-MPT.zip](https://www43.zippyshare.com/v/V0cWBBHs/file.html)|
 |[Adobe.Illustrator.CC.2019.[x64].Patch-MPT.zip](https://www72.zippyshare.com/v/woSgEkEW/file.html)|
@@ -152,7 +153,7 @@ http://www.adobe.com
 
 **方法1** *（此方法仅供2018使用）*
 > ![](/img/Adobe/crack_1_1.png)
-> 1.运行 [Adobe.CC2018.Anticloud](https://www.lanzous.com/i1ul5he)
+> 1.运行 [Adobe.CC2018.Anticloud.r4](https://www.lanzous.com/i2li3nc)
 > 2.单击“Install”，就好了！
 
 **方法2** *（此方法仅供CC版本使用）*

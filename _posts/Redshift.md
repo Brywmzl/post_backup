@@ -15,13 +15,13 @@ Redshift是世界上第一个完全基于GPU加速的，有偏差渲染器。
 
 Redshift渲染场景比现有的基于CPU的渲染器要快许多倍，它能节省时间和金钱，并发挥你的创造力！
 
-[官方网站](http://www.redshift.com/)  
-[官方用户手册](https://docs.redshift3d.com/display/RSDOCS/)  
-[用户手册 中文](http://www.zcool.com.cn/article/ZNTc0MDgw.html?switchPage=on)  
+[官方网站](http://www.redshift.com/)
+[官方用户手册](https://docs.redshift3d.com/display/RSDOCS/)
+[用户手册 中文](http://www.zcool.com.cn/article/ZNTc0MDgw.html?switchPage=on)
 
 # 下载  
-> [官方下载](https://www.redshift3d.com/product/download)  
-> [网盘下载](https://pan.baidu.com/s/1i5By7Tb)  
+> [官方下载](https://www.redshift3d.com/product/download)
+> [网盘下载](https://pan.baidu.com/s/1i5By7Tb)
 
 # 学习
 

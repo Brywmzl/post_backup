@@ -26,11 +26,12 @@ Rhino（全称：Rhinoceros，又名：Rhino3D）是一款轻量级但非常强�
 
 **安装包**
 
-|Windows 64-bit|
-|:-:|
-|[rh50_zh-cn_5.14.00522.08390.exe](http://files.mcneel.com/dujour/exe/20170522/rh50_zh-cn_5.14.00522.08390.exe)|
-|[rhino_zh-cn_6.9.18271.20591.exe](http://files.mcneel.com/dujour/exe/20180928/rhino_zh-cn_6.9.18271.20591.exe)|
-|[rhino_zh-cn_6.11.18275.16081.exe](http://files.mcneel.com/dujour/exe/20181002/rhino_zh-cn_6.11.18275.16081.exe)|
+|Versions|Windows 64-bit|
+|:-:|:-:|
+|v6.11|[rhino_zh-cn_6.11.18275.16081.exe](http://files.mcneel.com/dujour/exe/20181002/rhino_zh-cn_6.11.18275.16081.exe)|
+|v6.10|[rhino_zh-cn_6.10.18311.20531.exe](http://files.mcneel.com/dujour/exe/20181107/rhino_zh-cn_6.10.18311.20531.exe)|
+|v6.9|[rhino_zh-cn_6.9.18271.20591.exe](http://files.mcneel.com/dujour/exe/20180928/rhino_zh-cn_6.9.18271.20591.exe)|
+|v5.14|[rh50_zh-cn_5.14.00522.08390.exe](http://files.mcneel.com/dujour/exe/20170522/rh50_zh-cn_5.14.00522.08390.exe)|
 
 # 安装说明
 

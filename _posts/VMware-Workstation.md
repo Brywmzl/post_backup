@@ -2,7 +2,7 @@
 layout:     post
 title:      VMware Workstation
 subtitle:   VMware是功能最强大的虚拟机软件
-date:       2018-11-14
+date:       2018-11-28
 author:     Brywmzl
 header-img: img/VMware/bg.jpg
 catalog: true
@@ -17,11 +17,19 @@ VMware是功能最强大的虚拟机软件
 [发布说明](https://docs.vmware.com/cn/VMware-Workstation-Pro/index.html)  
 
 # 下载
+> [官方下载](https://my.vmware.com/web/vmware/downloads)
 > [睿派克网盘下载](https://eyun.baidu.com/s/3jI8WaBc) 密码：`repaik`
 > [网盘下载](https://pan.baidu.com/s/1PStHkznUpYCoj8lyBeo0OQ)
 
+**TempUser**
+Username:`qeeer{% raw %}{% endraw %}@rsvhr.com`
+Password:`12345678a`
+
+---
+
 |Version|File|
 |:-:|:-:|
+|15.0.2|[VMware-workstation-full-15.0.2-10952284.exe](http://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.0.2-10952284.exe)|
 |15.0.1|[VMware-workstation-full-15.0.1-10737736.exe](http://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.0.1-10737736.exe)|
 |14.1.3|[VMware-workstation-full-14.1.3-9474260.exe](http://download3.vmware.com/software/wkst/file/VMware-workstation-full-14.1.3-9474260.exe)|
 |12.5.9|[VMware-workstation-full-12.5.9-7535481.exe](https://download3.vmware.com/software/wkst/file/VMware-workstation-full-12.5.9-7535481.exe)|

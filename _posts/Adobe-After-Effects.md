@@ -1,7 +1,7 @@
 ﻿---
 layout:     post
 title:      Adobe After Effects
-date:       2018-10-27
+date:       2018-12-13
 author:     Brywmzl
 tags: [Adobe,After Effects,Ae]
 categories: [视频编辑]
@@ -55,7 +55,13 @@ Adobe After Effects 是Adobe公司推出的一款图形视频处理软件
 > [appnee](https://appnee.com/red-giant-complete-suite-universal-serial-numbers-collection/)
 > [官方网站](http://www.redgiant.com/products/trapcode-suite/)
 > [网盘下载](https://pan.baidu.com/s/1dF30ekx#list/path=/App/Adobe/_Plug-ins/Ae/TrapcodeSuite&parentPath=/App)  
-> TCSuite_V14.0 SERIAL CODE : `TCBK2245868172939255`  
+
+**SERIAL CODE**
+
+|VERSION|SERIAL CODE|
+|:-:|:-:|
+|V14.0 \ V15.0|`TCBK2245868172939255`|
+
 
 ## GenArts Sapphire [蓝宝石]
 ![](/img/Adobe/AE/GAS.png)
