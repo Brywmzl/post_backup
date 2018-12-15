@@ -2,7 +2,7 @@
 layout:     post
 title:      Adobe 系列软件
 subtitle:   http://www.adobe.com
-date:       2018-11-25
+date:       2018-12-15
 author:     Brywmzl
 header-img: img/Adobe/bg.jpg
 catalog: true
@@ -82,7 +82,8 @@ http://www.adobe.com
 > [~~Zer0Cod3 all in one Adobe CC 2019 patcher~~](https://zer0cod3.weebly.com/adobe-cc-2019-all-in-one-patcher/zer0cod3-all-in-one-adobe-cc-2019-patcher#comments)
 > [~~Zer0Cod3 Manual Cracks~~](https://zer0cod3.weebly.com/manual-cracks.html)
 > [Zer0Cod3 End October Cracks 30-10-2018.zip](https://www6.zippyshare.com/v/3jRFC4r7/file.html)
-> [网盘下载](https://pan.baidu.com/s/1dF30ekx#list/path=%2FApp%2FAdobe%2F_Crack%2FCC2019%2FZer0Cod3&parentPath=%2FApp)
+> [蓝奏云 网盘下载](https://www.lanzous.com/b523855/)
+> [百度云 网盘下载](https://pan.baidu.com/s/1dF30ekx#list/path=%2FApp%2FAdobe%2F_Crack%2FCC2019%2FZer0Cod3&parentPath=%2FApp)
 
 ---
 
@@ -110,7 +111,7 @@ http://www.adobe.com
 
 > 1.打开 [Win_1337_Apply_Patch_By_DFoX](https://github.com/Deltafox79/Win_1337_Apply_Patch/releases)
 > 2.Exe/Dll File: 选择对应的 exe 或 dll 文件
-> 3.1337 File: 选择对应的 [1337文件](https://pan.baidu.com/s/1dF30ekx#list/path=/App/Adobe/_Crack/CC2019/Zer0Cod3/_1337/1337 File&parentPath=/App)
+> 3.1337 File: 选择对应的1337文件
 > 4.然后 Patch~
 
 **防火墙规则生成器** *（Bl4ckCyb3rEnigm4{% raw %}@{% endraw %}yandex.com）*
@@ -119,7 +120,8 @@ http://www.adobe.com
 > [Firewall rules generator by Bl4ckCyb3rEnigm4 v.0.0.4.zip](https://www67.zippyshare.com/v/q2fNtZrD/file.html)
 > [Firewall rules generator by Bl4ckCyb3rEnigm4 v.0.0.3.zip](https://www27.zippyshare.com/v/9vUU4ahA/file.html)
 > [Firewall rules generator by Bl4ckCyb3rEnigm4 v.0.0.2.zip](https://www111.zippyshare.com/v/btrnxXLG/file.html)
-> [网盘下载](https://pan.baidu.com/s/1dF30ekx#list/path=/App/Adobe/_Tools/Firewall rules generator&parentPath=/App)
+> [蓝奏云 网盘下载](https://www.lanzous.com/b523916/)
+> [百度云 网盘下载](https://pan.baidu.com/s/1dF30ekx#list/path=/App/Adobe/_Tools/Firewall rules generator&parentPath=/App)
 
 ---
 
@@ -127,7 +129,8 @@ http://www.adobe.com
 
 > ![](/img/Adobe/crack_4_1.png)
 > [MPT34M](http://www.mpt34m.net/)
-> [网盘下载](https://pan.baidu.com/s/1dF30ekx#list/path=/App/Adobe/_Crack/CC2019/MPT34M&parentPath=/App)
+> [蓝奏云 网盘下载](https://www.lanzous.com/b523907/)
+> [百度云 网盘下载](https://pan.baidu.com/s/1dF30ekx#list/path=/App/Adobe/_Crack/CC2019/MPT34M&parentPath=/App)
 
 |PatchFile|
 |:-:|

@@ -94,7 +94,7 @@ Microsoft DirectX 是这样一组技术：它们旨在使基于 Windows 的计�
 > [睿派克技术论坛](https://www.repaik.com) 
 * [微软DirectX9.0c最终用户运行库（32bit）](https://www.repaik.com/thread-55658-1-1.html) 
 * [微软DirectX9.0c最终用户运行库（64bit）](https://www.repaik.com/thread-55660-1-1.html) 
-* [百度网盘下载](https://pan.baidu.com/s/1jH76Ir0) 密码：`131k`
+* [百度云 网盘下载](https://pan.baidu.com/s/1jH76Ir0) 密码：`131k`
 
 > [网盘下载](https://pan.baidu.com/s/1krBIbFR8qxVzZIL-6-qFZw#list/path=/App/Microsoft/MSVCVB&parentPath=/App) 
 

@@ -55,6 +55,9 @@ http://www.maxon.net
 
 ![](/img/C4D/1.jpg) 
 
+* 插件
+[Plexus OBJ Sequence Exporter for C4D](https://www.rowbyte.com/obj-sequence-exporter)
+
 # 安装问题
 * 无法启动此程序，因为计算机丢失libmmd.dll.尝试重新安装该程序以解决此问题
 ![](/img/C4D/8c.png)  
