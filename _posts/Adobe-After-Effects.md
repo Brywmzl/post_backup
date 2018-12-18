@@ -54,6 +54,7 @@ Adobe After Effects 是Adobe公司推出的一款图形视频处理软件
 ![](/img/Adobe/AE/2.png)
 > [appnee](https://appnee.com/red-giant-complete-suite-universal-serial-numbers-collection/)
 > [官方网站](http://www.redgiant.com/products/trapcode-suite/)
+> [Download Red Giant Link](https://www.redgiant.com/link/)
 > [网盘下载](https://pan.baidu.com/s/1dF30ekx#list/path=/App/Adobe/_Plug-ins/Ae/TrapcodeSuite&parentPath=/App)
 
 |VERSION|SERIAL CODE|
@@ -71,7 +72,7 @@ Adobe After Effects 是Adobe公司推出的一款图形视频处理软件
 >- Code : `sXBIsG2YihoWHltG`  
 
 ## Element 3D [Ae三维插件]
-![](http://imglf2.ph.126.net/TS-gLDxL9msKHi_Luwh_dg==/6631270075838355293.png)  
+![](/img/Adobe/AE/E3D.png)
 > [网盘下载](https://pan.baidu.com/s/1dF30ekx#list/path=/App/Adobe/_Plug-ins/Ae/Video Copilot/Element 3D&parentPath=/App)  
 * Windows 安装方法：  
 	* 1.运行 Element 3D 安装程序  

@@ -53,9 +53,9 @@ da1e00cfb8fdd761b97907934ece3abf4970d9e8023dcac5607d07
 
 在以前软件内注册之后是没有广告的，但是国内的代理商代理之后就变成了不管有没有注册都有广告，所以很恶心
 
+![](/img/WinRAR/0.png)
+
 > [用资源工具 去广告](https://www.52pojie.cn/thread-656299-1-1.html)
 > [用X64dbg 去广告](https://www.52pojie.cn/thread-630556-1-1.html)
-> [网盘下载](https://pan.baidu.com/s/1SD3lYRDhfvKA9MdPB9mp7w#list/path=/App/WinRAR/_去广告弹窗+授权补丁&parentPath=/App)
-
-![](/img/WinRAR/0.png)
-> [winrar_561sc_patch.zip](https://www.lanzous.com/i2li8ed)
+> [蓝奏云 网盘下载](https://www.lanzous.com/b523971/)
+> [百度云 网盘下载](https://pan.baidu.com/s/1SD3lYRDhfvKA9MdPB9mp7w#list/path=/App/WinRAR/_去广告弹窗+授权补丁&parentPath=/App)

@@ -43,5 +43,5 @@ total-uninstall.com reject
 * 注册表`HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Cryptography`下找到一个项里的值为XXX\\xxxxxxxx数据类型为REG_BINARY的删掉
 * 注册表`HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{乱七八糟}`下项找值为`ProdID`的删掉
 
-![](https://github.com/Brywmzl/Brywmzl.github.io/raw/master/img/Total_Uninstall/3.png)  
+![](/img/Total_Uninstall/3.png)  
 > [Total_Uninstall_注册反弹清除工具(不支持Win10) 网盘下载](https://pan.lanzou.com/i0kdgqf)  
