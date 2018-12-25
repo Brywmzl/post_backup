@@ -24,9 +24,12 @@ menu:
   #weibo:
     #url: http://www.weibo.com/brywmzl
     #target: _blank
-  book:
-    text: About
-    url: /about
+  #envira:
+    #text: Gallery
+    #url: /gallery
+  #book:
+    #text: About
+    #url: /about
 #http://fontawesome.dashgame.com/
 
 # 你的头像url
