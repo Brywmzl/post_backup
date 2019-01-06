@@ -310,6 +310,11 @@ border-bottom: 最底下的分割线
 img: 改了img的width和height为空就可以解决图片拉伸问题
 {% endblockquote %}
 
+{% blockquote .page-article %}
+padding: 10px; 最外边距
+.card(3px); 卡片圆角
+{% endblockquote %}
+
 {% blockquote .page-content %}
     figure {
         padding: 20px!important;

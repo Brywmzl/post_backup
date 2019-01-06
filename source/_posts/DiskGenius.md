@@ -1,7 +1,6 @@
 ﻿---
 layout:     post
 title:      DiskGenius
-subtitle:   DiskGenius 是专业级的数据恢复软件
 date:       2018-12-23
 author:     http://diskgenius.cn
 header-img: img/DiskGenius/bg.jpg

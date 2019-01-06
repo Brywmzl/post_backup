@@ -45,11 +45,11 @@ ShadowSocks
 ---
 
 **更新日志**
-
-* 新增加密功能（非SSR功能）
-* 新增SSR剪辑版导入
-* 支持json格式化
-* 支持配置文件重定向（在目录下创建config.ini文件）
+* 2018-10-23
+	* 新增加密功能（非SSR功能）
+	* 新增SSR剪辑版导入
+	* 支持json格式化
+	* 支持配置文件重定向（在目录下创建config.ini文件）
 ```
 [configs]
 dir=X:\ShadowsocksR\gui-config.json

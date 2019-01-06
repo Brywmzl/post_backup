@@ -6,7 +6,7 @@ date:       2017-12-09
 author:     Brywmzl
 header-img: img/Vray/wave-web-stefan-008b-uai-2064x836.jpg
 catalog: true
-tags: [C4D插件]
+tags: [C4D插件,V-Ray]
 categories: [渲染引擎]
 ---
 http://www.vrayforc4d.net
