@@ -17,6 +17,8 @@ HDR Light Studio是一款专业级高动态范围3D渲染软件HDR制作软件�
 
 [官方网站](https://www.lightmap.co.uk/)
 [GALLERY](https://www.lightmap.co.uk/gallery/)
+[Online User Guide](http://help.lightmap.co.uk/hdrlightstudio5/)
+[PDF User Guide]（https://s3-eu-west-1.amazonaws.com/lightmap/docs/HDRLightStudio_UserGuide.pdf）
 [Getting Started](https://vimeopro.com/hdrlightstudio/gettingstarted)
 
 # 下载
