@@ -6,7 +6,8 @@ date:       2018-08-21
 author:     Brywmzl
 header-img: img/StrRewrite/bg.jpg
 catalog: true
-tags:
+tags: []
+categories: [Brywmzl]
 ---
 Str Rewrite 是一款针对str文件重写的工具
 

@@ -1,0 +1,288 @@
+{
+	"list":[
+	{
+      "name":"Adobe CC 2019",
+      "remarks":"By Zer0Cod3",
+      "list":[
+      {
+          "name":"Adobe Acrobat DC CC 2019 0.0.8",
+          "updat_date":"2018-10-24",
+          "remarks":"Zer0Cod3",
+		   "install_position":"$desktopPatcher Cloud.exe",
+          "action":[
+		  {
+		  "process_end":"",
+		  },
+		  {
+		  "tyep":"file",
+		  "file":"",
+		  "install_position":"$desktopPatcher Cloud.exe",
+		  "md5":""
+		  },
+		  {
+		  "type":"dir_rar",
+		  "dir":"",
+		  "install_position":"$desktopPatcher Cloud.exe"
+		  }
+		  ]
+      },
+      {
+          "name":"Adobe After Effects CC 2019 16.0.0",
+          "updat_date":"2018-10-27",
+          "remarks":"Zer0Cod3",
+          "install_path":"$get_reg_x64[HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\App Paths\\AfterFX.exe\\Path]",
+          "process_end":"",
+          "patch":"_res/adobe/cc2019/photoshop.exe"
+      },
+	  {
+          "name":"Adobe Animate CC 2019 19.0.0",
+          "updat_date":"2018-10-28",
+          "remarks":"Zer0Cod3",
+          "install_path":"$get_reg_x64[HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\App Paths\\Animate.exe\\Path]",
+          "process_end":"",
+          "patch":"_res/adobe/cc2019/photoshop.exe"
+      },
+	  {
+          "name":"Adobe Audition CC 2019",
+          "updat_date":"2018-10-28",
+          "remarks":"Zer0Cod3",
+          "install_path":"$get_reg_x64[HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\App Paths\\Photoshop.exe\\Path]",
+          "process_end":"",
+          "patch":"_res/adobe/cc2019/photoshop.exe"
+      },
+	  {
+          "name":"Adobe Bridge CC 2019 9.0.1 x32",
+          "updat_date":"2018-11-06",
+          "remarks":"Zer0Cod3",
+          "install_path":"$get_reg_x64[HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\App Paths\\Photoshop.exe\\Path]",
+          "process_end":"",
+          "patch":"_res/adobe/cc2019/photoshop.exe"
+      },
+	  {
+          "name":"Adobe Bridge CC 2019 9.0.1",
+          "updat_date":"2018-11-03",
+          "remarks":"Zer0Cod3",
+          "install_path":"$get_reg_x64[HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\App Paths\\Photoshop.exe\\Path]",
+          "process_end":"",
+          "patch":"_res/adobe/cc2019/photoshop.exe"
+      },
+	  {
+          "name":"Adobe Character Animator CC 2019 2.0",
+          "updat_date":"2018-10-28",
+          "remarks":"Zer0Cod3",
+          "install_path":"$get_reg_x64[HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\App Paths\\Photoshop.exe\\Path]",
+          "process_end":"",
+          "patch":"_res/adobe/cc2019/photoshop.exe"
+      },
+	  {
+          "name":"Adobe Dimension CC 2019 2.0",
+          "updat_date":"2016-11-16",
+          "remarks":"Zer0Cod3",
+          "install_path":"$get_reg_x64[HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\App Paths\\Photoshop.exe\\Path]",
+          "process_end":"",
+          "patch":"_res/adobe/cc2019/photoshop.exe"
+      },
+	  {
+          "name":"Adobe Dreamweaver CC 2019 19.0.0 x32",
+          "updat_date":"2018-11-06",
+          "remarks":"Zer0Cod3",
+          "install_path":"$get_reg_x64[HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\App Paths\\Photoshop.exe\\Path]",
+          "process_end":"",
+          "patch":"_res/adobe/cc2019/photoshop.exe"
+      },
+	  {
+          "name":"Adobe Dreamweaver CC 2019 19.0.0",
+          "updat_date":"2018-10-28",
+          "remarks":"Zer0Cod3",
+          "install_path":"$get_reg_x64[HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\App Paths\\Photoshop.exe\\Path]",
+          "process_end":"",
+          "patch":"_res/adobe/cc2019/photoshop.exe"
+      },
+	  {
+          "name":"Adobe Illustrator CC 2019 23.0.1 x32",
+          "updat_date":"2018-11-06",
+          "remarks":"Zer0Cod3",
+          "install_path":"$get_reg_x64[HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\App Paths\\Illustrator.exe\\Path]\\",
+          "process_end":"",
+          "patch":"_res/adobe/cc2019/photoshop.exe"
+      },
+	  {
+          "name":"Adobe Illustrator CC 2019 23.0.1",
+          "updat_date":"2018-11-03",
+          "remarks":"Zer0Cod3",
+          "install_path":"$get_reg_x64[HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\App Paths\\Illustrator.exe\\Path]\\",
+          "process_end":"",
+          "patch":"_res/adobe/cc2019/photoshop.exe"
+      },
+	  {
+          "name":"Adobe InCopy CC 2019 14.0.0 x32",
+          "updat_date":"2018-11-06",
+          "remarks":"Zer0Cod3",
+          "install_path":"$get_reg_x64[HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\App Paths\\Photoshop.exe\\Path]",
+          "process_end":"",
+          "patch":"_res/adobe/cc2019/photoshop.exe"
+      },
+	  {
+          "name":"Adobe InCopy CC 2019 14.0.0",
+          "updat_date":"2018-10-28",
+          "remarks":"Zer0Cod3",
+          "install_path":"$get_reg_x64[HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\App Paths\\Photoshop.exe\\Path]",
+          "process_end":"",
+          "patch":"_res/adobe/cc2019/photoshop.exe"
+      },
+	  {
+          "name":"Adobe Indesign CC 2019 14.0.0 x32",
+          "updat_date":"2018-11-06",
+          "remarks":"Zer0Cod3",
+          "install_path":"$get_reg_x64[HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\App Paths\\InDesign.exe\\Path]\\",
+          "process_end":"",
+          "patch":"_res/adobe/cc2019/photoshop.exe"
+      },
+	  {
+          "name":"Adobe Indesign CC 2019 14.0.0",
+          "updat_date":"2018-10-28",
+          "remarks":"Zer0Cod3",
+          "install_path":"$get_reg_x64[HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\App Paths\\InDesign.exe\\Path]\\",
+          "process_end":"",
+          "patch":"_res/adobe/cc2019/photoshop.exe"
+      },
+	  {
+          "name":"Adobe Lightroom CC 2019 8.0.0",
+          "updat_date":"2018-10-30",
+          "remarks":"Zer0Cod3",
+          "install_path":"$get_reg_x64[HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\App Paths\\Photoshop.exe\\Path]",
+          "process_end":"",
+          "patch":"_res/adobe/cc2019/photoshop.exe"
+      },
+	  {
+          "name":"Adobe Media Encoder CC 2019 13.0.1",
+          "updat_date":"2018-11-03",
+          "remarks":"Zer0Cod3",
+          "install_path":"$get_reg_x64[HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\App Paths\\Adobe Media Encoder.exe\\Path]",
+          "process_end":"",
+          "patch":"_res/adobe/cc2019/photoshop.exe"
+      },
+      {
+          "name":"Adobe Photoshop CC 2019 20.0.0",
+          "updat_date":"2018-10-27",
+          "remarks":"Zer0Cod3",
+          "install_path":"$get_reg_x64[HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\App Paths\\Photoshop.exe\\Path]",
+          "process_end":"",
+          "patch":"_res/adobe/cc2019/photoshop.exe"
+      },
+	  {
+          "name":"Adobe Prelude CC 2019 8.0",
+          "updat_date":"2018-10-28",
+          "remarks":"Zer0Cod3",
+          "install_path":"$get_reg_x64[HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\App Paths\\Photoshop.exe\\Path]",
+          "process_end":"",
+          "patch":"_res/adobe/cc2019/photoshop.exe"
+      },
+      {
+          "name":"Adobe Premiere Pro CC 2019 13.0.1",
+          "updat_date":"2018-11-03",
+          "remarks":"Zer0Cod3",
+          "install_path":"$get_reg_x64[HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\App Paths\\Adobe Premiere Pro.exe\\Path]",
+          "process_end":"",
+          "patch":"_res/adobe/cc2019/photoshop.exe"
+      }
+	]
+	},
+    {
+      "name":"Adobe CC 2018",
+      "remarks":"By Zer0Cod3",
+      "list":[
+      {
+          "name":"adobe photoshop cc 2019",
+          "updat_date":"2018-11-11",
+          "remarks":"_res/adobe/cc2019/photoshop.exe",
+          "install_path":"$get_reg_x64[HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\App Paths\\Photoshop.exe\\Path]",
+          "process_end":"",
+          "patch":"_res/adobe/cc2019/photoshop.exe"
+      },
+      {
+          "name":"adobe indesign cc 2019",
+          "updat_date":"2018-11-11",
+          "remarks":"该补丁仅适用于",
+          "install_path":"$get_reg_x64[HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\App Paths\\InDesign.exe\\Path]\\",
+          "process_end":"",
+          "patch":"_res/adobe/cc2019/photoshop.exe"
+      },
+      {
+          "name":"adobe Illustrator cc 2019",
+          "updat_date":"2018-11-11",
+          "remarks":"该补丁仅适用于",
+          "install_path":"$get_reg_x64[HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\App Paths\\Illustrator.exe\\Path]\\",
+          "md5":"",
+          "process_end":"",
+          "patch":"_res/adobe/cc2019/photoshop.exe"
+      },
+      {
+          "name":"adobe premiere pro cc 2019",
+          "updat_date":"2018-11-11",
+          "remarks":"该补丁仅适用于",
+          "install_path":"$get_reg_x64[HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\App Paths\\Adobe Premiere Pro.exe\\Path]",
+          "md5":"",
+          "process_end":"",
+          "patch":"_res/adobe/cc2019/photoshop.exe"
+      }
+	]
+	},
+	{
+      "name":"Rhino 未完成",
+      "remarks":"By Zer0Cod3",
+      "list":[
+      {
+          "name":"adobe photoshop cc 2019",
+          "updat_date":"2018-11-11",
+          "remarks":"_res/adobe/cc2019/photoshop.exe",
+          "patch":"_res/adobe/cc2019/photoshop.exe"
+      },
+      {
+          "name":"adobe indesign cc 2019",
+          "updat_date":"2018-11-11",
+          "remarks":"该补丁仅适用于",
+          "patch":"_res/adobe/cc2019/photoshop.exe"
+      },	{
+          "name":"adobe Illustrator cc 2019",
+          "updat_date":"2018-11-11",
+          "remarks":"该补丁仅适用于",
+          "patch":"_res/adobe/cc2019/photoshop.exe"
+      },	{
+          "name":"adobe premiere pro cc 2019",
+          "updat_date":"2018-11-11",
+          "remarks":"该补丁仅适用于",
+          "patch":"_res/adobe/cc2019/photoshop.exe"
+      }
+	]
+	},
+	{
+      "name":"IDM",
+      "remarks":"By Zer0Cod3",
+      "list":[
+      {
+          "name":"adobe photoshop cc 2019",
+          "updat_date":"2018-11-11",
+          "remarks":"_res/adobe/cc2019/photoshop.exe",
+          "patch":"_res/adobe/cc2019/photoshop.exe"
+      },
+      {
+          "name":"adobe indesign cc 2019",
+          "updat_date":"2018-11-11",
+          "remarks":"该补丁仅适用于",
+          "patch":"_res/adobe/cc2019/photoshop.exe"
+      },	{
+          "name":"adobe Illustrator cc 2019",
+          "updat_date":"2018-11-11",
+          "remarks":"该补丁仅适用于",
+          "patch":"_res/adobe/cc2019/photoshop.exe"
+      },	{
+          "name":"adobe premiere pro cc 2019",
+          "updat_date":"2018-11-11",
+          "remarks":"该补丁仅适用于",
+          "patch":"_res/adobe/cc2019/photoshop.exe"
+      }
+	]
+	}
+	]
+}

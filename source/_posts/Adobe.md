@@ -2,7 +2,7 @@
 layout:     post
 title:      Adobe 系列软件
 subtitle:   http://www.adobe.com
-date:       2018-12-15
+date:       2019-01-17
 author:     Brywmzl
 header-img: img/Adobe/bg.jpg
 catalog: true
@@ -135,6 +135,7 @@ http://www.adobe.com
 |PatchFile|
 |:-:|
 |[Adobe.After.Effects.CC.2019.[x64].Patch-MPT.zip](https://www43.zippyshare.com/v/9ttc2SB7/file.html)|
+|[Adobe.Animate.CC.19.1.[x64].Patch-MPT.zip](https://www115.zippyshare.com/v/Gqx92Rle/file.html)|
 |[Adobe.Audition.CC.2019.[x64].Patch-MPT.zip](https://www118.zippyshare.com/v/hyFn7bx2/file.html)|
 |[Adobe.Character.Animator.CC.2019.[x64].Patch-MPT.zip](https://www43.zippyshare.com/v/z5DTkJ8D/file.html)|
 |[Adobe.Dreamweaver.CC.2019.[x64].Patch-MPT.zip](https://www43.zippyshare.com/v/V0cWBBHs/file.html)|

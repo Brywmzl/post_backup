@@ -21,8 +21,9 @@ Our RAW Codecs are plug-ins for Windows that allow Photo Viewers and Windows Exp
 > [NEF CODEC](http://www.ardfry.com/psd-codec/)
 > [Adobe RAW (DNG) Codec](http://www.ardfry.com/psd-codec/)
 
-> [Microsoft Camera Codec Pack](https://www.microsoft.com/en-us/download/details.aspx?id=26829)
-> [NEF Codec](http://nikonimglib.com/nefcodec/index.html)
+**个人总结**
+其实就 PSD Codec 比较有用，它不仅仅可以看PSD的缩略图还能看aI和indd的缩略图
+其它可以通过安装 [Microsoft Camera Codec Pack](https://www.microsoft.com/en-us/download/details.aspx?id=26829) 替代，包括Nikon官方的 [NEF Codec](http://nikonimglib.com/nefcodec/index.html)
 
 # 安装说明
 
@@ -32,3 +33,7 @@ livelong@wtf.net
 
 owner@wtf.net
 9PRM-H395-LPH2-E29M
+
+# 同类软件
+FastPictureViewer Codec Pack 直接显示PSD，AI，PDF，EPS，RAW等缩略图。
+> [FastPictureViewer Codec Pack](http://www.fastpictureviewer.com/codecs/)

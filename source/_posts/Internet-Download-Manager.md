@@ -1,7 +1,7 @@
 ﻿---
 layout:     post
 title:      Internet Download Manager
-date:     2018-12-29
+date:     2019-01-13
 author:     Brywmzl
 catalog: true
 tags: [IDM,Internet Download Manager]
@@ -17,6 +17,18 @@ categories: [下载工具]
 > [Download Internet Download Manager Now](http://www.internetdownloadmanager.com/download.html)
 > [网盘下载](https://pan.baidu.com/s/1nvxJuyd)
 
+# 安装说明
+![](/img/IDM/patch.png)
+> [IDM_Patcher.7z](https://www.lanzous.com/i2v9b7a)（基于riched32.dll制作）
+> [riched32.rar](https://www.lanzous.com/i2li65c)
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Internet Download Manager]
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Internet Download Manager]
+"FName"="Brywmzl"
+"LName"="Brywmzl"
+"Serial"="00000-00000-00000-00000"
+
+# 历史版本
 |Download Internet Download Manager
 |:-:
 |[idman632build5.exe](http://mirror2.internetdownloadmanager.com/idman632build5.exe)
@@ -33,13 +45,3 @@ categories: [下载工具]
 |[idman631build3.exe](http://mirror2.internetdownloadmanager.com/idman631build3.exe)
 |[idman631build2.exe](http://mirror2.internetdownloadmanager.com/idman631build2.exe)
 |[idman631build1.exe](http://mirror2.internetdownloadmanager.com/idman631build1.exe)
-
-# 安装说明
-* **631build1~632build5**
-[riched32.rar](https://www.lanzous.com/i2li65c)
-
-# 注册
-[HKEY_LOCAL_MACHINE\SOFTWARE\Internet Download Manager]
-[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Internet Download Manager]
-"FName"="Brywmzl"
-"Serial"="00000-00000-00000-00000"

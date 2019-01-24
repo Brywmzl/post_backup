@@ -5,7 +5,7 @@ date:       2019-01-12
 author:     Brywmzl
 catalog: true
 tags: []
-categories: [系统工具]
+categories: [Brywmzl]
 ---
 Rename是一款运用内置规则静默批量重命名的工具
 
