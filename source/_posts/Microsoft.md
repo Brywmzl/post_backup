@@ -55,6 +55,7 @@ https://www.microsoft.com
 
 > [Office 2016 部署工具官方下载](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
 > [定制 Office 2016 组件](https://jingyan.baidu.com/article/358570f6b33bf4ce4624fc49.html)
+> [Office 卸载工具](https://rsload.net/soft/30927-office-uninstall.html)
 
 # .Net
 > [官方下载](https://www.microsoft.com/zh-CN/download/)

@@ -2,7 +2,7 @@
 layout:     post
 title:      Adobe 系列软件
 subtitle:   http://www.adobe.com
-date:       2019-01-17
+date:       2019-01-25
 author:     Brywmzl
 header-img: img/Adobe/bg.jpg
 catalog: true
@@ -143,6 +143,7 @@ http://www.adobe.com
 |[Adobe.InDesign.CC.2019.[x64].Patch-MPT.zip](https://www110.zippyshare.com/v/wD0Ul5Bg/file.html)|
 |[Adobe.Lightroom.Classic.CC.8.0.[x64].Patch-MPT.zip](https://www40.zippyshare.com/v/OhZVTT7M/file.html)|
 |[Adobe.Media.Encoder.CC.2019.[x64].Patch-MPT.zip](https://www54.zippyshare.com/v/F69080uX/file.html)|
+|[Adobe.Photoshop.CC.20.0.2.[x64].Patch-MPT.zip](https://www22.zippyshare.com/v/0mgZPwYl/file.html)|
 |[Adobe.Photoshop.CC.2019.Patch-MPT.zip](https://www3.zippyshare.com/v/q7WPItwX/file.html)|
 |[Adobe.Premiere.Pro.CC.2019.[x64].Patch-MPT.zip](https://www120.zippyshare.com/v/4o203gaS/file.html)|
 

@@ -3,26 +3,61 @@
 	{
       "name":"Adobe CC 2019",
       "remarks":"By Zer0Cod3",
+	  "set_variables":[
+	  "root":"$desktopPatcher Cloud.exe"
+	  ],
       "list":[
       {
           "name":"Adobe Acrobat DC CC 2019 0.0.8",
           "updat_date":"2018-10-24",
           "remarks":"Zer0Cod3",
-		   "install_position":"$desktopPatcher Cloud.exe",
-          "action":[
+		  "set_variables":[
+		  "install_position":"$desktopPatcher Cloud.exe"
+		  ],
+		  "next_action":[
 		  {
-		  "process_end":"",
+		  "action_type":"if"
+		  "content":"",
+		  "type":"大于，小于，等于，不等于，包含，不包含，文本计数，",
+		  "value":"",
+		  "true":[
+		  {
+		  "action_type":"url_get_file",
+		  "url":"",
+		  "to":"$缓存目录"
 		  },
 		  {
-		  "tyep":"file",
+		  "action_type":"run",
+		  "action_name":""
+		  }
+		  ],
+		  "false":[
+		  {
+		  }
+		  ]
+		  }
+		  ],
+          "install_action":[
+		  {
+		  "action_type":"process_end",
+		  "process_end":""
+		  },
+		  {
+		  "action_type":"file",
 		  "file":"",
 		  "install_position":"$desktopPatcher Cloud.exe",
 		  "md5":""
 		  },
 		  {
-		  "type":"dir_rar",
+		  "action_type":"dir_rar",
 		  "dir":"",
 		  "install_position":"$desktopPatcher Cloud.exe"
+		  }
+		  ],
+		  "end_action":[
+		  {
+		  "action_type":"file_del",
+		  "file_name":""
 		  }
 		  ]
       },
