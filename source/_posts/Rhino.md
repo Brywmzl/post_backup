@@ -1,6 +1,6 @@
 ﻿---
 layout:     post
-title:      Rhinoceras
+title:      Rhinoceros
 subtitle:   超级强大而轻量级的NURBS建模软件
 date:       2019-02-06
 author:     Brywmzl
@@ -25,7 +25,6 @@ Rhino（全称：Rhinoceros，又名：Rhino3D）是一款轻量级但非常强�
 > [最新测试版下载](https://www2.mcneel.com/updates/06bb1079-5a56-47a1-ad6d-0b45183d894b/release/win64/zh-cn/releasecandidate)
 > [网盘下载](https://pan.baidu.com/s/1eSxXRbG)
 
-
 **安装包**
 
 |更新日期|计算结果|Windows 64-bit|
@@ -40,10 +39,12 @@ Rhino（全称：Rhinoceros，又名：Rhino3D）是一款轻量级但非常强�
 |2018-10-22|2018-10-22|[rhino_zh-cn_6.11.18295.13361.exe](http://files.mcneel.com/dujour/exe/20181022/rhino_zh-cn_6.11.18295.13361.exe)|
 |2018-10-02|2018-10-02|[rhino_zh-cn_6.11.18275.16081.exe](http://files.mcneel.com/dujour/exe/20181002/rhino_zh-cn_6.11.18275.16081.exe)|
 |2018-11-07|2018-11-08|[rhino_zh-cn_6.10.18311.20531.exe](http://files.mcneel.com/dujour/exe/20181107/rhino_zh-cn_6.10.18311.20531.exe)|
-|2018-09-10|2018-09-10|[rhino_zh-cn_6.10.18252.10571.exe](http://files.mcneel.com/dujour/exe/20180910/rhino_zh-cn_6.10.18252.10571.exe)|
+|2018-09-09|2018-09-10|[rhino_zh-cn_6.10.18252.10571.exe](http://files.mcneel.com/dujour/exe/20180909/rhino_zh-cn_6.10.18252.10571.exe)|
 |2018-09-28|2018-09-29|[rhino_zh-cn_6.9.18271.20591.exe](http://files.mcneel.com/dujour/exe/20180928/rhino_zh-cn_6.9.18271.20591.exe)|
 |2018-08-27|2018-08-27|[rhino_zh-cn_6.9.18239.20041.exe](http://files.mcneel.com/dujour/exe/20180827/rhino_zh-cn_6.9.18239.20041.exe)|
 |2018-05-29|2018-05-29|[rhino_zh-cn_6.5.18149.14421.exe](http://files.mcneel.com/dujour/exe/20180529/rhino_zh-cn_6.5.18149.14421.exe)|
+|2018-03-31|2018-03-31|[rhino_zh-cn_6.3.18090.00471.exe](http://files.mcneel.com/dujour/exe/20180331/rhino_zh-cn_6.3.18090.00471.exe)|
+|2018-02-12|2018-02-12|[rhino_zh-cn_6.2.18043.22301.exe](http://files.mcneel.com/dujour/exe/20180212/rhino_zh-cn_6.2.18043.22301.exe)|
 |2017-05-22||[rh50_zh-cn_5.14.00522.08390.exe](http://files.mcneel.com/dujour/exe/20170522/rh50_zh-cn_5.14.00522.08390.exe)|
 
 **语言包格式**
@@ -89,7 +90,7 @@ https://files.mcneel.com/dujour/exe/20190131/rhino_zh-cn_languagepack_6.13.19031
 	* VC2015_redist_x64.exe（VC运行库）
 
 1. `Bootstrapper.exe` 其实就是在线包 `rhino_zh-cn_x.xx.xxxxx.xxxxx.exe` 更名而成
-2. 语言包 顾名思义就是软件的语言，我们通常都用（简体中文、English）这两个比较多，其他什么鸟语包基本没用，而且犀牛下载离线包全都给你下下来，一个包大到97.9MB左右，多数是用来占空间的，语言包以国家代号与区号来命名文件夹，如 `zh-cn` 里面把语言包命名 `LanguagePack.msi`放在里面，然后在放在`redist`文件夹里
+2. 语言包 顾名思义就是软件的语言，我们通常都用（简体中文、English）这两个比较多，其他什么鸟语包基本没用，而且Rhino下载离线包全都给你下下来，一个包大到97.9MB左右，多数是用来占空间的，语言包以国家代号与区号来命名文件夹，如 `zh-cn` 里面把语言包命名 `LanguagePack.msi`放在里面，然后在放在`redist`文件夹里
 3. VC运行库及.Net 也是放在`redist`文件夹里，有安装就不用了！
 {% emoji dizzy_face %} 突然感觉我做离线包好蠢啊！！！
 
@@ -100,7 +101,7 @@ https://files.mcneel.com/dujour/exe/20190131/rhino_zh-cn_languagepack_6.13.19031
 * 安装目录下替换“RhinoCore.dll”文件
 
 **毛子补丁**
-* 在一个[毛子网站](https://rsload.net/soft/editor/29750-rhinoceros.html)发现一个[Patch](https://www.lanzous.com/i331nwh)
+* 在一个[毛子网站](https://rsload.net/soft/editor/29750-rhinoceros.html)发现一个[Rhino_6_Patch.zip](https://www.lanzous.com/i337a0d)
 * 不过会显示 Undefined 正在从授权管理器取得授权... 不会显示商业版
 * 目前可以通杀 6.10.18242.16581~6.12.19029.06381（目测能够到 6.12 最终版本）
 * 目前测试不适用于 6.13.19031.05531（测试版）
