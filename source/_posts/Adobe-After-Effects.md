@@ -3,7 +3,7 @@ layout:     post
 title:      Adobe After Effects
 date:       2018-12-13
 author:     Brywmzl
-tags: [Adobe,After Effects,Ae]
+tags: [Adobe,After Effects]
 categories: [视频编辑]
 password: 
 abstract: 

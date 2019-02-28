@@ -2,7 +2,7 @@
 layout:     post
 title:      Adobe 系列软件
 subtitle:   http://www.adobe.com
-date:       2019-01-25
+date:       2019-02-25
 author:     Brywmzl
 header-img: img/Adobe/bg.jpg
 catalog: true
@@ -89,7 +89,7 @@ http://www.adobe.com
 
 **1337_Apply_Patch**
 
-> ![](/img/Adobe/crack_3_1.png)
+> ![](/img/Adobe/1337_1.9.png)
 
 |Product|PatchFile|
 |:-:|:-:|
@@ -137,11 +137,14 @@ http://www.adobe.com
 |[Adobe.After.Effects.CC.2019.[x64].Patch-MPT.zip](https://www43.zippyshare.com/v/9ttc2SB7/file.html)|
 |[Adobe.Animate.CC.19.1.[x64].Patch-MPT.zip](https://www115.zippyshare.com/v/Gqx92Rle/file.html)|
 |[Adobe.Audition.CC.2019.[x64].Patch-MPT.zip](https://www118.zippyshare.com/v/hyFn7bx2/file.html)|
+|[Adobe.Captivate.2019.v11.0.1.266.[.x64].Patch-MPT.zip](https://www87.zippyshare.com/v/9QKuLB9A/file.html)|
 |[Adobe.Character.Animator.CC.2019.[x64].Patch-MPT.zip](https://www43.zippyshare.com/v/z5DTkJ8D/file.html)|
 |[Adobe.Dreamweaver.CC.2019.[x64].Patch-MPT.zip](https://www43.zippyshare.com/v/V0cWBBHs/file.html)|
+|[Adobe.Illustrator.CC.23.0.2.567.[x64].Patch-MPT.zip](https://www68.zippyshare.com/v/wO4cY6hv/file.html)|
 |[Adobe.Illustrator.CC.2019.[x64].Patch-MPT.zip](https://www72.zippyshare.com/v/woSgEkEW/file.html)|
 |[Adobe.InDesign.CC.2019.[x64].Patch-MPT.zip](https://www110.zippyshare.com/v/wD0Ul5Bg/file.html)|
 |[Adobe.Lightroom.Classic.CC.8.0.[x64].Patch-MPT.zip](https://www40.zippyshare.com/v/OhZVTT7M/file.html)|
+|[Adobe.Lightroom.Classic.CC.8.2.[x64].Patch-MPT.zip](https://www112.zippyshare.com/v/3MOj1FqF/file.html)|
 |[Adobe.Media.Encoder.CC.2019.[x64].Patch-MPT.zip](https://www54.zippyshare.com/v/F69080uX/file.html)|
 |[Adobe.Photoshop.CC.20.0.2.[x64].Patch-MPT.zip](https://www22.zippyshare.com/v/0mgZPwYl/file.html)|
 |[Adobe.Photoshop.CC.2019.Patch-MPT.zip](https://www3.zippyshare.com/v/q7WPItwX/file.html)|
@@ -237,6 +240,38 @@ http://www.adobe.com
 [参考](https://www.ultravfx.com/2017/10/crack-adobe-cc-2018-winmac-app-easily-tutorial1/)
 [CC 2018 图文参考](http://www.yishimei.cn/network/736.html)   
 
+# Adobe Zii
+
+|PatchFile|
+|:-:|
+|[Adobe_Zii_2019_4.1.8_zip](https://anonfile.com/t7taTat0b0/Adobe_Zii_2019_4.1.8_zip)|
+|[Adobe_Zii_2019_4_1_7_TNT_zip](https://anonfile.com/LaG4Q7t8ba/Adobe_Zii_2019_4_1_7_TNT_zip)|
+|[Adobe_Zii_2019_4.1.6_zip](https://anonfile.com/71J6C0tcb3/Adobe_Zii_2019_4.1.6_zip)|
+
+**Adobe Zii Patcher 4.1.8**
+* Adobe Illustrator CC 2019
+* Adobe InCopy CC 2019
+* Adobe InDesign CC 2019
+* Adobe Prelude CC 2019
+* Adobe Premiere Pro CC 2019
+* Adobe Photoshop CC 2019
+* Adobe Media Encoder CC 2019
+* Adobe After Effects CC 2019 v16.0.1
+* Adobe Audition CC 2019 v12.0.1
+* Adobe Bridge CC 2019 v9.0.2
+* Adobe Character Animator CC 2019 v2.0.1
+* Adobe Lightroom CC 2019
+* Adobe Lightroom Classic CC
+* Adobe XD CC﻿﻿
+
+With all the confusion and different versions we didn’t post every version: This is the latest Version of Adobe Zii You are best to try for yourself Download the apps through Adobe Creative Cloud and Always Drag app on to the seems to work better.
+
+Compatibility: OS X 10.11 or later 64-bit﻿
+
+**What’s New in Adobe Zii Patcher 4.1.8**
+* Added support for Adobe Premiere Pro CC 2019 v13.0.3
+* Fixed some minor bugs﻿
+
 # 安装错误
 
 * 如果安装失败 请尝试删除一下文件
@@ -271,7 +306,9 @@ http://www.adobe.com
 
 > [appnee](https://appnee.com/tag/adobe/)
 > [appnee-adobe zii](https://free.appnee.com/adobe-zii/)
+> [NSF论坛原作](https://www.nsaneforums.com/topic/331682-adobe-photoshop-cc-2019-v2002-win-mac/page/2/?tab=comments#comment-1431905)
 > [FC Portable](https://www.fcportables.com/)
 > [CracksNow](https://cracksnow.com/category/windows/)
 > [1337x](https://1337x.to/popular-apps)
 > [Adobe CC 2019 全家桶新功能](https://www.uisdc.com/adobe-cc-2019-new-function)
+> [Adobe Creative Cloud 2019 预激活安装包](https://sites.google.com/site/raymondfreesoftware/adobe-creative-cloud)

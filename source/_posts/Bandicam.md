@@ -4,11 +4,7 @@ title:      Bandicam[屏幕录像]
 subtitle:   https://www.bandicam.com/
 date:       2017-11-14
 author:     Brywmzl
-header-img: img/Bandicam/mainbanner_01.jpg
-catalog: true
-tags:
-    - Bandicam
-    - 屏幕录像
+tags: [Bandicam,屏幕录像]
 ---
 Bandicam是录制游戏视频、视频截图、屏幕录制的功能强大的软件，比起其他软件其性能更加卓越。 
 

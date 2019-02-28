@@ -14,6 +14,7 @@ categories: [渲染引擎]
 <!--more-->
 
 [官方网站](https://home.otoy.com/render/octane-render/)
+[Manuals](https://docs.otoy.com/Portal/Home.htm)
 
 # 下载  
 > [网盘下载](https://pan.baidu.com/s/1eR3i0oU)  

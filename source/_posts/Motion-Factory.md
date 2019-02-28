@@ -4,7 +4,7 @@ title:      Motion Factory
 date:       2018-09-10
 author:     Brywmzl
 catalog: true
-tags: [Ae插件,Pr插件]
+tags: [Motion,After Effects,Premiere Pro]
 ---
 Create high-quality visual effects easily and quickly. All the Adobe After Effects tools you need to make extraordinary motion graphics videos!
 

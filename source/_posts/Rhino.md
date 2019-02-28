@@ -2,7 +2,7 @@
 layout:     post
 title:      Rhinoceros
 subtitle:   超级强大而轻量级的NURBS建模软件
-date:       2019-02-06
+date:       2019-02-28
 author:     Brywmzl
 catalog: true
 tags: [Rhino,犀牛]
@@ -29,6 +29,7 @@ Rhino（全称：Rhinoceros，又名：Rhino3D）是一款轻量级但非常强�
 
 |更新日期|计算结果|Windows 64-bit|
 |:-:|:-:|:-:|
+|2019-02-27|2019-02-27|[rhino_zh-cn_6.13.19058.00371.exe](http://files.mcneel.com/dujour/exe/20190227/rhino_zh-cn_6.13.19058.00371.exe)|
 |2019-01-31|2019-01-31|[rhino_zh-cn_6.13.19031.05531.exe](http://files.mcneel.com/dujour/exe/20190131/rhino_zh-cn_6.13.19031.05531.exe)|
 |2019-01-29|2019-01-29|[rhino_zh-cn_6.12.19029.06381.exe](http://files.mcneel.com/dujour/exe/20190129/rhino_zh-cn_6.12.19029.06381.exe)|
 |2018-12-17|2018-12-17|[rhino_zh-cn_6.12.18351.21491.exe](http://files.mcneel.com/dujour/exe/20181217/rhino_zh-cn_6.12.18351.21491.exe)|

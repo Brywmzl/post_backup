@@ -1,10 +1,8 @@
 ﻿---
 layout:     post
 title:      外面的世界很精彩
-date:       2018-11-10
+date:       2019-02-28
 author:     Brywmzl
-header-img: img/post-bg-os-metro.jpg
-catalog: true
 tags: [ShadowSocks]
 ---
 ShadowSocks
@@ -38,13 +36,22 @@ ShadowSocks
 
 # Node Editor
 
-![](/img/TheWorld/subscribe.png)
+![](/img/Brywmzl/NodeEditor100.png)
 
-> [网盘下载](https://www.lanzous.com/i2641ad)
+> [蓝奏云 网盘下载](https://www.lanzous.com/b349735)
 
 ---
 
 **更新日志**
+* 2019-02-28 version 1.00
+	* 调整框架够呛。。。
+	* 修复调整框架造成的bug
+	* 修复surge生成配置时崩溃
+	* 修复保存时显示问题
+	* 支持移动顺序、添加、删除、复制、保存节点
+	* 支持生成surge节点配置
+	* 支持订阅surge 的.conf文件
+	* 清除无效的变量名称
 * 2018-10-23
 	* 新增加密功能（非SSR功能）
 	* 新增SSR剪辑版导入
@@ -54,7 +61,7 @@ ShadowSocks
 [configs]
 dir=X:\ShadowsocksR\gui-config.json
 ```
-* 修复接收数据空符号导致解密失败问题
+	* 修复接收数据空符号导致解码失败问题
 
 ---
 

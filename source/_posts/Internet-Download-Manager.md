@@ -31,6 +31,7 @@ categories: [下载工具]
 # 历史版本
 |Download Internet Download Manager
 |:-:
+|[idman632build6.exe](http://mirror2.internetdownloadmanager.com/idman632build6.exe)
 |[idman632build5.exe](http://mirror2.internetdownloadmanager.com/idman632build5.exe)
 |[idman632build4.exe](http://mirror2.internetdownloadmanager.com/idman632build4.exe)
 |[idman632build3.exe](http://mirror2.internetdownloadmanager.com/idman632build3.exe)

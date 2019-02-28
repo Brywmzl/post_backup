@@ -3,7 +3,7 @@ layout:     post
 title:      Rhino.IO
 date:       2018-09-08
 author:     Brywmzl
-tags: [Rhino,犀牛,C4D插件]
+tags: [Rhino,C4D插件]
 
 ---
 Rhino.io是一个连接和导入/导出插件

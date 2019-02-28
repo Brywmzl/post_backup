@@ -1,7 +1,7 @@
 ﻿---
 layout:     post
 title:      WinRAR
-date:       2018-11-08
+date:       2019-02-22
 author:     Brywmzl
 catalog: true
 tags: [压缩工具]
@@ -54,9 +54,27 @@ da1e00cfb8fdd761b97907934ece3abf4970d9e8023dcac5607d07
 
 在以前软件内注册之后是没有广告的，但是国内的代理商代理之后就变成了不管有没有注册都有广告，所以很恶心
 
-![](/img/WinRAR/0.png)
+![](/img/WinRAR/57b2.png)
+
+* 卸载程序和新建菜单没有汉化
 
 > [用资源工具 去广告](https://www.52pojie.cn/thread-656299-1-1.html)
 > [用X64dbg 去广告](https://www.52pojie.cn/thread-630556-1-1.html)
 > [蓝奏云 网盘下载](https://www.lanzous.com/b523971/)
-> [百度云 网盘下载](https://pan.baidu.com/s/1SD3lYRDhfvKA9MdPB9mp7w#list/path=/App/WinRAR/_去广告弹窗+授权补丁&parentPath=/App)
+> [百度云 网盘下载](https://pan.baidu.com/s/1SD3lYRDhfvKA9MdPB9mp7w#list/path=/App/WinRAR&parentPath=/App)
+
+# 汉化
+
+WinRAR.exe（主程序）
+
+Uninstall.exe（卸载程序）
+
+RarExt.dll（右键菜单）
+
+RarExt32.dll（右键菜单）
+
+**WinRAR archive**（新建菜单）
+`HKEY_CLASSES_ROOT\WinRAR`
+
+**WinRAR ZIP archive**（新建菜单）
+`HKEY_CLASSES_ROOT\WinRAR.ZIP`
