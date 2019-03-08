@@ -28,8 +28,40 @@ http://www.adobe.com
 > [官方离线安装包](https://helpx.adobe.com/creative-cloud/kb/creative-cloud-apps-download.html)
 > [官方在线安装包以及 Creative Cloud](https://www.adobe.com/creativecloud/catalog/desktop.html)
 
+## Creative Cloud 2019 apps
+
 |Product|Windows|Mac OS
-|:-:|:-:|:-:
+|:-|:-|:-
+|Acrobat Pro DC|[[Win (32 bit)](http://prdl-download.adobe.com/Acrobat%20Professional/D7F54F0D29444633826976D79A5A752C/1551091346749/Acrobat_DC_Web_WWMUI.exe)](http://prdl-download.adobe.com/Acrobat%20Professional/D7F54F0D29444633826976D79A5A752C/1551091346749/Acrobat_DC_Web_WWMUI.exe)|[Mac OS (64 bit)](http://prdl-download.adobe.com/Acrobat%20Professional/D7F54F0D29444633826976D79A5A752C/1551166390837/Acrobat_DC_Web_WWMUI.dmg)
+|After Effects|[Win (64 bit)](http://prdl-download.adobe.com/After%20Effects/EFCFFC34A2A1445EA202AD05824C73D8/1544084408371/AdobeAfterEffects16AllTrial.zip)|[Mac OS (64 bit)](http://prdl-download.adobe.com/After%20Effects/EFCFFC34A2A1445EA202AD05824C73D8/1544084495843/AdobeAfterEffects16AllTrial.dmg)
+|Animate|[Win (64 bit)](http://prdl-download.adobe.com/Flash/D8A4B2B76E9C4A578424737D0EC4C168/1546595685932/Animate_19_LS20.exe)|[Mac OS (64 bit)](http://prdl-download.adobe.com/Flash/D8A4B2B76E9C4A578424737D0EC4C168/1546595779385/Animate_19_LS20.dmg)
+|Audition|[Win (64 bit)](http://prdl-download.adobe.com/Audition/E7E769AC13B345AB84DBF3D259C6F556/1544088248596/AdobeAudition12All.zip)|[Mac OS (64 bit)](http://prdl-download.adobe.com/Audition/E7E769AC13B345AB84DBF3D259C6F556/1544088274103/AdobeAudition12All.dmg)
+|Bridge|[Win (32 bit)](http://prdl-download.adobe.com/Bridge/1DC9934374274649BBCBF3A0E0CFCFB5/1544440540709/Bridge.9.0.HDInstaller.zip){% raw %} | {% endraw %} [Win (64 bit)](http://prdl-download.adobe.com/Bridge/1DC9934374274649BBCBF3A0E0CFCFB5/1544440572462/Bridge.9.0.HDInstaller.zip)|[Mac OS (64 bit)](http://prdl-download.adobe.com/Bridge/1DC9934374274649BBCBF3A0E0CFCFB5/1544440636618/Bridge.9.0.HDInstaller.dmg)
+|Character Animator|[Win (64 bit)](http://prdl-download.adobe.com/Character%20Animator/00B50F20B95644AEA51395371E4C6C90/1544088163077/AdobeCharacterAnimator2AllTrial.zip)|[Mac OS (64 bit)](http://prdl-download.adobe.com/Character%20Animator/00B50F20B95644AEA51395371E4C6C90/1544088213443/AdobeCharacterAnimator2AllTrial.dmg)
+|Dimension|[Win (64 bit)](http://prdl-download.adobe.com/Euclid/0BEDA563DF514FABA4E1201108CEE8A3/1546596536938/Dimension_2.1-20181130.r.778-9a5a81b-ESD.zip)|[Mac OS (64 bit)](http://prdl-download.adobe.com/Euclid/0BEDA563DF514FABA4E1201108CEE8A3/1546596656258/Dimension_2.1-20181130.r.778-9a5a81b-ESD.dmg)
+|Dreamweaver|[Win (32 bit)](http://prdl-download.adobe.com/Dreamweaver/FD65CE52E08E4AD7BFB17BACD290AFE3/1551337948892/Dreamweaver%20CC%202019%20Set-up.exe){% raw %} | {% endraw %} [Win (64 bit)](http://prdl-download.adobe.com/Dreamweaver/FD65CE52E08E4AD7BFB17BACD290AFE3/1551337774192/Dreamweaver%20CC%202019%20Set-up.exe)|[Mac OS (64 bit)](http://prdl-download.adobe.com/Dreamweaver/FD65CE52E08E4AD7BFB17BACD290AFE3/1551338025594/Dreamweaver%20CC%202019%20Set-up.dmg)
+|Fuse CC (Beta)|[Win (32 bit)](http://prdl-download.adobe.com/Fuse/D7E164FB1D0742409D5D4B4D6FEB4E88/1544442198942/Fuse_2017_1_UE.7z)|[Mac OS (64 bit)](http://prdl-download.adobe.com/Fuse/D7E164FB1D0742409D5D4B4D6FEB4E88/1544442365365/Fuse_2017_1_UE.dmg)
+|Illustrator|[Win (32 bit)](http://prdl-download.adobe.com/Illustrator/160936BD5B104622BB9B90349EE49E5F/1546591230620/AdobeIllustrator23_HD_win32.zip){% raw %} | {% endraw %} [Win (64 bit)](http://prdl-download.adobe.com/Illustrator/160936BD5B104622BB9B90349EE49E5F/1546595326395/AdobeIllustrator23_HD_win64.zip)|[Mac OS (64 bit)](http://prdl-download.adobe.com/Illustrator/160936BD5B104622BB9B90349EE49E5F/1546595453816/AdobeIllustrator23_HD.dmg)
+|InCopy|[Win (32 bit)](http://prdl-download.adobe.com/InCopy/62DEBA0627494C20BD9C63381D017A88/1544443403307/InCopy_14_LS20_Win32.zip){% raw %} | {% endraw %} [Win (64 bit)](http://prdl-download.adobe.com/InCopy/62DEBA0627494C20BD9C63381D017A88/1544443361134/InCopy_14_LS20_Win64.zip)|[Mac OS (64 bit)](http://prdl-download.adobe.com/InCopy/62DEBA0627494C20BD9C63381D017A88/1544443444997/InCopy_14_LS20.dmg)
+|InDesign|[Win (32 bit)](http://prdl-download.adobe.com/InDesign/D5722D9AC14B49958F93821AFCD3A52A/1544443220543/InDesign_14_LS20_Win32.zip){% raw %} | {% endraw %} [Win (64 bit)](http://prdl-download.adobe.com/InDesign/D5722D9AC14B49958F93821AFCD3A52A/1544443171829/InDesign_14_LS20_Win64.zip)|[Mac OS (64 bit)](http://prdl-download.adobe.com/InDesign/D5722D9AC14B49958F93821AFCD3A52A/1544443319355/InDesign_14_LS20.dmg)
+|Lightroom|[Win (64 bit)](http://prdl-download.adobe.com/Nimbus/8B68813B39A14CCD91DDCE8D93225574/1548399558333/LRCC_2.1_20181129-0106-61a316d_win64_Release_ESD.zip)|[Mac OS (64 bit)](http://prdl-download.adobe.com/Nimbus/8B68813B39A14CCD91DDCE8D93225574/1548399594377/LRCC_2.1_osx10-64_Release_ESD.dmg)
+|Lightroom Classic|[Win (64 bit)](http://prdl-download.adobe.com/Lightroom/CA4674BB70B54A1A9DE0B0831F85443E/1544440684794/LR_8.0_1193777_win64_Release_ESD.zip)|[Mac OS (64 bit)]()
+|Media Encoder|[Win (64 bit)]()|[Mac OS (64 bit)](http://prdl-download.adobe.com/Lightroom/CA4674BB70B54A1A9DE0B0831F85443E/1544440732080/LR_8.0_1193777_osx10-64_Release_ESD.dmg)
+|Muse CC|[Win (64 bit)](http://prdl-download.adobe.com/Muse/C3A2E1E270254AC18D82B0CF4EF7CE3F/1544441842535/Muse_2018_0_CC_LS24.exe)|[Mac OS (64 bit)](http://prdl-download.adobe.com/Adobe%20Media%20Encoder/8C05BEDA6290488E8C66EA85A85A5C49/1544088605036/AdobeMediaEncoder13AllTrial.dmg)
+|Photoshop|[Win (64 bit)](http://prdl-download.adobe.com/Photoshop/55E8FC8663C847F08BFBCD8DFE336AE8/1546595903133/AdobePhotoshop20-mul_x64.zip)|[Mac OS (64 bit)](http://prdl-download.adobe.com/Photoshop/55E8FC8663C847F08BFBCD8DFE336AE8/1546595985332/AdobePhotoshop20-mul.dmg)
+|Prelude |[Win (64 bit)](http://prdl-download.adobe.com/Prelude/03B5AC12E8394815BEB07838B93922A1/1544088494176/AdobePrelude8AllTrial.zip)|[Mac OS (64 bit)](http://prdl-download.adobe.com/Premiere%20Pro/C474E1D5059F4381BE89C87503B0D7AD/1544083366757/AdobePremierePro13AllTrial.dmg)
+|Premiere Pro|[Win (64 bit)](http://prdl-download.adobe.com/Premiere%20Pro/C474E1D5059F4381BE89C87503B0D7AD/1544083308622/AdobePremierePro13AllTrial.zip)|[Mac OS (64 bit)](http://prdl-download.adobe.com/Premiere%20Pro/C474E1D5059F4381BE89C87503B0D7AD/1544083366757/AdobePremierePro13AllTrial.dmg)
+|Premiere Rush|[Win (64 bit)](http://prdl-download.adobe.com/Rush/FE3D5362CB3B44B6A84E7C3D78ACE4CC/1544088659654/AdobePremiereRush1.0AllTrial.zip)|[Mac OS (64 bit)](http://prdl-download.adobe.com/Rush/FE3D5362CB3B44B6A84E7C3D78ACE4CC/1544088716887/AdobePremiereRush1.0AllTrial.dmg)
+|Extendscript Toolkit CC|[Win (32 bit)](http://prdl-download.adobe.com/ExtendScriptToolkit/85C17E5FC8B34A7B8483796F0367F97C/1509443329438/AdobeExtendScriptToolkit_4_LS22.exe)|[Mac OS (64 bit)](http://prdl-download.adobe.com/ExtendScriptToolkit/85C17E5FC8B34A7B8483796F0367F97C/1509443413689/AdobeExtendScriptToolkit_4_LS22.dmg)
+|Flash Builder Premium|[Win (32 bit)](http://prdl-download.adobe.com/Flash%20Builder/C06A256DD8FD4DF186D90CE0ADCF0B2C/1509476504960/FlashBuilder_4_7_LS10.exe){% raw %} | {% endraw %} [Win (64 bit)](http://prdl-download.adobe.com/Flash%20Builder/C06A256DD8FD4DF186D90CE0ADCF0B2C/1509477139530/FlashBuilder_4_7_LS10_win64.exe)|[Mac OS (64 bit)](http://prdl-download.adobe.com/Flash%20Builder/C06A256DD8FD4DF186D90CE0ADCF0B2C/1509477775883/FlashBuilder_4_7_LS10.dmg)
+|Gaming SDK 1.4|[Win (32 bit)](http://prdl-download.adobe.com/Adobe%20Gaming%20SDK/06B0741879AF47E0A4F9770FCE3899DB/1509446318486/AdobeGamingSDK_1_4_LS1.exe)|[Mac OS (64 bit)](http://prdl-download.adobe.com/Adobe%20Gaming%20SDK/06B0741879AF47E0A4F9770FCE3899DB/1509447321525/AdobeGamingSDK_1_4_LS1.dmg)
+|Touch App Plugins|[Win (32 bit)](http://prdl-download.adobe.com/Touch%20App%20Plugins/7204D106061140928580FD958699CADD/1509478425533/TouchApp_1_CCM_WWEFDJ.exe)|[Mac OS (64 bit)](http://prdl-download.adobe.com/Touch%20App%20Plugins/7204D106061140928580FD958699CADD/1509478438249/TouchApp_1_CCM_WWEFDJ.dmg)
+|SpeedGrade CC|[Win (64 bit)](http://prdl-download.adobe.com/SpeedGrade/1CC0FA5AC5BB48478EB666B24D9A609F/1509443936439/SpeedGrade_9_LS20.exe)|[Mac OS (64 bit)](http://prdl-download.adobe.com/SpeedGrade/1CC0FA5AC5BB48478EB666B24D9A609F/1509445098629/SpeedGrade_9_LS20.dmg)
+
+## Creative Cloud 2018 apps
+
+|Product|Windows|Mac OS
+|:-|:-|:-
 |Photoshop CC|[Win (32 bit)](http://prdl-download.adobe.com/Photoshop/66A1D1E00DE44601B041A631261EC584/1507845150875/AdobePhotoshop19-mul.zip){% raw %} | {% endraw %}[Win (64 bit)](http://prdl-download.adobe.com/Photoshop/66A1D1E00DE44601B041A631261EC584/1507846032938/AdobePhotoshop19-mul_x64.zip)|[Mac OS (64 bit)](http://prdl-download.adobe.com/Photoshop/66A1D1E00DE44601B041A631261EC584/1507851230691/AdobePhotoshop19-mul.dmg)
 |Lightroom CC|[Win (64 bit)](http://prdl-download.adobe.com/LightroomCC/B739B5BBE924450E85E3CCA3F4E58DF2/1507817913973/LRCC_1.0_20170919-1412-ccb76bd_win64_Release_ESD.zip)|[Mac OS (64 bit)](http://prdl-download.adobe.com/LightroomCC/B739B5BBE924450E85E3CCA3F4E58DF2/1507820815391/LRCC_1.0_osx10-64_Release_ESD.dmg)
 |Lightroom Classic CC|[Win (64 bit)](http://prdl-download.adobe.com/Lightroom/C92BB55D87554077A61FB4B39229DF85/1509474343363/LR_7.0.1_1142117_win64_Release_ESD.zip)|[Mac OS (64 bit)](http://prdl-download.adobe.com/Lightroom/C92BB55D87554077A61FB4B39229DF85/1509475151710/LR_7.0.1_1142117_osx10-64_Release_ESD.dmg)
@@ -57,7 +89,6 @@ http://www.adobe.com
 
 **vposy**
 
-> [CC2018大师版8.3Final 9月2日更新 百度云下载](https://pan.baidu.com/s/1dio1Z4)（提取密码:w7i4）[@vposy](https://weibo.com/vposy)
 > [原版SP版 百度云下载](https://pan.baidu.com/s/1F1iCpjajAz-Ez5QsJZP5zQ)（提取密码:ewyu）[@vposy](https://weibo.com/vposy)
 
 # 补丁激活

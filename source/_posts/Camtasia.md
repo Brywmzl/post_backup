@@ -12,7 +12,7 @@ Record on-screen activity, add imported media, create interactive content, and s
 <!--more-->
 
 [官方网站](https://www.techsmith.com/video-editor.html)
-[Camtasia Tutorials]https://www.techsmith.com/tutorial-camtasia.html)
+[Camtasia Tutorials](https://www.techsmith.com/tutorial-camtasia.html)
 
 # 下载
 > [官方下载](https://www.techsmith.com/download/camtasia/)

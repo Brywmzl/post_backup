@@ -1,7 +1,7 @@
 ﻿---
 layout:     post
 title:      Internet Download Manager
-date:     2019-01-13
+date:     2019-03-01
 author:     Brywmzl
 catalog: true
 tags: [IDM,Internet Download Manager]
@@ -19,8 +19,9 @@ categories: [下载工具]
 
 # 安装说明
 ![](/img/IDM/patch.png)
-> [IDM_Patcher.7z](https://www.lanzous.com/i2v9b7a)（基于riched32.dll制作）
-> [riched32.rar](https://www.lanzous.com/i2li65c)
+
+> [IDM_6.3.2_Patcher.7z](https://www.lanzous.com/i3a80bc)（基于 riched32.dll + winhttp.dll 制作）
+> [IDM_6.x.x_Patcher.7z](https://www.lanzous.com/i3a800b)（基于 riched32.dll 制作）
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Internet Download Manager]
 [HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Internet Download Manager]

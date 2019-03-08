@@ -2,10 +2,8 @@
 layout:     post
 title:      Luxion KeyShot
 subtitle:   惊艳的视觉效果 快速的实时渲染
-date:       2019-02-12
+date:       2019-03-07
 author:     Brywmzl
-header-img: img/keyshot/keyshot-7-viewer-section-04.jpg
-catalog: true
 tags: [Keyshot]
 categories: [渲染引擎]
 ---
@@ -295,3 +293,11 @@ KeyShot Cloud is an online library where you can download new resources, and sha
 The KeyShot Cloud is accessible directly from inside KeyShot. When a user is logged into the KeyShot Cloud, you may browse, download, and upload KeyShot resources. Currently supported KeyShot resources are: Materials, Backplates, Textures and Environments.
 
 Rather than posting here, please share your resources on KeyShot Cloud. If you have shared a resource here in the past, open the corresponding scene in KeyShot and select Upload from the KeyShot Library Window after selecting the resource to upload.
+
+# 材质包语言补丁
+![](/img/Brywmzl/KSMLP.png)
+* 支持双语（材质名称不建议使用双语，在icon view下名称太长的会被掩盖）
+* 目录树和文件可选补丁
+* 该补丁可覆盖补丁，但没有还原选项，请自行备份
+
+> [蓝奏云 网盘下载](https://)

@@ -56,7 +56,7 @@ da1e00cfb8fdd761b97907934ece3abf4970d9e8023dcac5607d07
 
 ![](/img/WinRAR/57b2.png)
 
-* 卸载程序和新建菜单没有汉化
+**不汉化卸载程序和新建菜单**
 
 > [用资源工具 去广告](https://www.52pojie.cn/thread-656299-1-1.html)
 > [用X64dbg 去广告](https://www.52pojie.cn/thread-630556-1-1.html)
