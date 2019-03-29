@@ -1,9 +1,8 @@
 ﻿---
 layout:     post
 title:      Internet Download Manager
-date:     2019-03-01
+date:     2019-03-26
 author:     Brywmzl
-catalog: true
 tags: [IDM,Internet Download Manager]
 categories: [下载工具]
 ---
@@ -15,6 +14,7 @@ categories: [下载工具]
 
 # 下载
 > [Download Internet Download Manager Now](http://www.internetdownloadmanager.com/download.html)
+> [Chrome Browser Integration](http://www.internetdownloadmanager.com/register/new_faq/chrome_extension.html)
 > [网盘下载](https://pan.baidu.com/s/1nvxJuyd)
 
 # 安装说明
@@ -32,6 +32,8 @@ categories: [下载工具]
 # 历史版本
 |Download Internet Download Manager
 |:-:
+|[idman632build8.exe](http://mirror2.internetdownloadmanager.com/idman632build8.exe)
+|[idman632build7.exe](http://mirror2.internetdownloadmanager.com/idman632build7.exe)
 |[idman632build6.exe](http://mirror2.internetdownloadmanager.com/idman632build6.exe)
 |[idman632build5.exe](http://mirror2.internetdownloadmanager.com/idman632build5.exe)
 |[idman632build4.exe](http://mirror2.internetdownloadmanager.com/idman632build4.exe)

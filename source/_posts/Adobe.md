@@ -2,9 +2,8 @@
 layout:     post
 title:      Adobe 系列软件
 subtitle:   http://www.adobe.com
-date:       2019-02-25
+date:       2019-03-08
 author:     Brywmzl
-header-img: img/Adobe/bg.jpg
 catalog: true
 tags: [Adobe]
 categories: 
@@ -25,7 +24,7 @@ http://www.adobe.com
 **Creative Cloud**
 
 > [Creative Cloud](https://creative.adobe.com/products/download/creative-cloud)
-> [官方离线安装包](https://helpx.adobe.com/creative-cloud/kb/creative-cloud-apps-download.html)
+> [Creative Cloud apps Direct download](https://helpx.adobe.com/creative-cloud/kb/creative-cloud-apps-download.html)
 > [官方在线安装包以及 Creative Cloud](https://www.adobe.com/creativecloud/catalog/desktop.html)
 
 ## Creative Cloud 2019 apps
@@ -45,9 +44,9 @@ http://www.adobe.com
 |InCopy|[Win (32 bit)](http://prdl-download.adobe.com/InCopy/62DEBA0627494C20BD9C63381D017A88/1544443403307/InCopy_14_LS20_Win32.zip){% raw %} | {% endraw %} [Win (64 bit)](http://prdl-download.adobe.com/InCopy/62DEBA0627494C20BD9C63381D017A88/1544443361134/InCopy_14_LS20_Win64.zip)|[Mac OS (64 bit)](http://prdl-download.adobe.com/InCopy/62DEBA0627494C20BD9C63381D017A88/1544443444997/InCopy_14_LS20.dmg)
 |InDesign|[Win (32 bit)](http://prdl-download.adobe.com/InDesign/D5722D9AC14B49958F93821AFCD3A52A/1544443220543/InDesign_14_LS20_Win32.zip){% raw %} | {% endraw %} [Win (64 bit)](http://prdl-download.adobe.com/InDesign/D5722D9AC14B49958F93821AFCD3A52A/1544443171829/InDesign_14_LS20_Win64.zip)|[Mac OS (64 bit)](http://prdl-download.adobe.com/InDesign/D5722D9AC14B49958F93821AFCD3A52A/1544443319355/InDesign_14_LS20.dmg)
 |Lightroom|[Win (64 bit)](http://prdl-download.adobe.com/Nimbus/8B68813B39A14CCD91DDCE8D93225574/1548399558333/LRCC_2.1_20181129-0106-61a316d_win64_Release_ESD.zip)|[Mac OS (64 bit)](http://prdl-download.adobe.com/Nimbus/8B68813B39A14CCD91DDCE8D93225574/1548399594377/LRCC_2.1_osx10-64_Release_ESD.dmg)
-|Lightroom Classic|[Win (64 bit)](http://prdl-download.adobe.com/Lightroom/CA4674BB70B54A1A9DE0B0831F85443E/1544440684794/LR_8.0_1193777_win64_Release_ESD.zip)|[Mac OS (64 bit)]()
-|Media Encoder|[Win (64 bit)]()|[Mac OS (64 bit)](http://prdl-download.adobe.com/Lightroom/CA4674BB70B54A1A9DE0B0831F85443E/1544440732080/LR_8.0_1193777_osx10-64_Release_ESD.dmg)
-|Muse CC|[Win (64 bit)](http://prdl-download.adobe.com/Muse/C3A2E1E270254AC18D82B0CF4EF7CE3F/1544441842535/Muse_2018_0_CC_LS24.exe)|[Mac OS (64 bit)](http://prdl-download.adobe.com/Adobe%20Media%20Encoder/8C05BEDA6290488E8C66EA85A85A5C49/1544088605036/AdobeMediaEncoder13AllTrial.dmg)
+|Lightroom Classic|[Win (64 bit)](http://prdl-download.adobe.com/Lightroom/CA4674BB70B54A1A9DE0B0831F85443E/1544440684794/LR_8.0_1193777_win64_Release_ESD.zip)|[Mac OS (64 bit)](http://prdl-download.adobe.com/Lightroom/CA4674BB70B54A1A9DE0B0831F85443E/1544440732080/LR_8.0_1193777_osx10-64_Release_ESD.dmg)
+|Media Encoder|[Win (64 bit)](http://prdl-download.adobe.com/Adobe%20Media%20Encoder/8C05BEDA6290488E8C66EA85A85A5C49/1544088558243/AdobeMediaEncoder13AllTrial.zip)|[Mac OS (64 bit)](http://prdl-download.adobe.com/Adobe%20Media%20Encoder/8C05BEDA6290488E8C66EA85A85A5C49/1544088605036/AdobeMediaEncoder13AllTrial.dmg)
+|Muse CC|[Win (64 bit)](http://prdl-download.adobe.com/Muse/C3A2E1E270254AC18D82B0CF4EF7CE3F/1544441842535/Muse_2018_0_CC_LS24.exe)|[Mac OS (64 bit)](http://prdl-download.adobe.com/Muse/C3A2E1E270254AC18D82B0CF4EF7CE3F/1544441901080/Muse_2018_0_CC_LS24.dmg)
 |Photoshop|[Win (64 bit)](http://prdl-download.adobe.com/Photoshop/55E8FC8663C847F08BFBCD8DFE336AE8/1546595903133/AdobePhotoshop20-mul_x64.zip)|[Mac OS (64 bit)](http://prdl-download.adobe.com/Photoshop/55E8FC8663C847F08BFBCD8DFE336AE8/1546595985332/AdobePhotoshop20-mul.dmg)
 |Prelude |[Win (64 bit)](http://prdl-download.adobe.com/Prelude/03B5AC12E8394815BEB07838B93922A1/1544088494176/AdobePrelude8AllTrial.zip)|[Mac OS (64 bit)](http://prdl-download.adobe.com/Premiere%20Pro/C474E1D5059F4381BE89C87503B0D7AD/1544083366757/AdobePremierePro13AllTrial.dmg)
 |Premiere Pro|[Win (64 bit)](http://prdl-download.adobe.com/Premiere%20Pro/C474E1D5059F4381BE89C87503B0D7AD/1544083308622/AdobePremierePro13AllTrial.zip)|[Mac OS (64 bit)](http://prdl-download.adobe.com/Premiere%20Pro/C474E1D5059F4381BE89C87503B0D7AD/1544083366757/AdobePremierePro13AllTrial.dmg)

@@ -1,11 +1,8 @@
 ﻿---
 layout:     post
 title:      Charles
-subtitle:   Charles是一个HTTP代理/ HTTP监视器/反向代理的工具
 date:       2018-4-23
 author:     Brywmzl
-header-img: img/Charles/bg.jpg
-catalog: true
 tags: [Charles]
 categories: [网络工具]
 ---

@@ -1,11 +1,8 @@
 ﻿---
 layout:     post
 title:      Houdini Foundations
-subtitle:   电影和GAMEDEV的程序内容创作工具
 date:       2018-07-07
 author:     Brywmzl
-header-img: img/Houdini/h16_banner.jpg
-catalog: true
 tags: [Houdini]
 categories: [三维建模]
 ---

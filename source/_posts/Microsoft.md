@@ -1,12 +1,9 @@
 ﻿---
 layout:     post
 title:      Microsoft 系列软件
-subtitle:   https://www.microsoft.com
-date:       2018-11-29
+date:       2019-03-28
 author:     Brywmzl
-header-img: img/Microsoft/bg.jpg
-catalog: true
-tags: [Microsoft,微软]
+tags: [Microsoft,Office,KMS,微软]
 categories: [办公应用]
 ---
 https://www.microsoft.com
@@ -15,47 +12,27 @@ https://www.microsoft.com
 
 [官方网站](https://www.microsoft.com)
 
+<a href="/Microsoft/Windows/"><img src="/img/Microsoft/tab/windows.png"></a>
+<a href="/Microsoft/Office/"><img src="/img/Microsoft/tab/office.png"></a>
+<a href="/Microsoft/Digital-License/"><img src="/img/Microsoft/tab/digital-license.png"></a>
+
 # 下载
 > [Microsoft Software Download](https://www.microsoft.com/software-download)
-
 > [MSDN](https://msdn.itellyou.cn)
-> [暴风官网](http://www.baofengjihuo.com)
-> [KMSpico发布论坛](https://forums.mydigitallife.net)
+> [网盘下载](https://pan.baidu.com/s/11Z1PFiuBaH4Lc9aQs1x_rw)
 
+**KMS**
+> [KMSpico发布论坛](https://forums.mydigitallife.net)
 > Ratiborus（俄罗斯大神）
 * [Twitter](https://twitter.com/ratiborus58)
 * [solidfiles网盘文件](https://www.solidfiles.com/folder/bd7165a0d4/)
 
-> [网盘下载](https://pan.baidu.com/s/1krBIbFR8qxVzZIL-6-qFZw)
-
-# Office
-
-## Office 2019
-
-> Office 2019 激活码 : `W8W6K-3N7KK-PXB9H-8TD8W-BWTH9`
-
-|版本|文件
-|:-:|:-:
-|专业增强版|[ProPlus2019Retail.img](http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/ProPlus2019Retail.img)
-|专业版|[Professional2019Retail.img](http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/Professional2019Retail.img)
-|家庭学生版|[HomeStudent2019Retail.img](http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/HomeStudent2019Retail.img)
-|家庭企业版|[HomeBusiness2019Retail.img](http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/HomeBusiness2019Retail.img)
-|独立版|[Access2019Retail.img](http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/Access2019Retail.img)
-|独立版|[Excel2019Retail.img](http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/Excel2019Retail.img)
-|独立版|[Outlook2019Retail.img](http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/Outlook2019Retail.img)
-|独立版|[PowerPoint2019Retail.img](http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/PowerPoint2019Retail.img)
-|独立版|[ProjectPro2019Retail.img](http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/ProjectPro2019Retail.img)
-|独立版|[ProjectStd2019Retail.img](http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/ProjectStd2019Retail.img)
-|独立版|[Publisher2019Retail.img](http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/Publisher2019Retail.img)
-|独立版|[VisioPro2019Retail.img](http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/VisioPro2019Retail.img)
-|独立版|[VisioStd2019Retail.img](http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/VisioStd2019Retail.img)
-|独立版|[Word2019Retail.img](http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/Word2019Retail.img)
-|for Mac|[Microsoft_Office_16.19.18110915_Installer.pkg](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Office_16.19.18110915_Installer.pkg)
-## Office 2016
-
-> [Office 2016 部署工具官方下载](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
-> [定制 Office 2016 组件](https://jingyan.baidu.com/article/358570f6b33bf4ce4624fc49.html)
-> [Office 卸载工具](https://rsload.net/soft/30927-office-uninstall.html)
+|KMS Files|Remark|
+|::-|::-|
+|[KMSCleaner_v2.1_Portable](https://www.lanzous.com/i3k8cfi)|KMS 清除工具|
+|[Office_Uninstall_v1.8.1](https://www.lanzous.com/i3k8cad)|Office 卸载工具|
+|[Office_2013-2019_C2R_Install_+_Lite_v6.5.9](https://www.lanzous.com/i3k8c5i)|Office 安装工具|
+|[W10_Digital_Activation_Program_v1.3.7](https://www.lanzous.com/i3lc01c)|Win10 数字激活工具|
 
 # .Net
 > [官方下载](https://www.microsoft.com/zh-CN/download/)
@@ -66,7 +43,7 @@ https://www.microsoft.com
 **Microsoft .NET Framework installer for Windows**
 
 |版本|页面|在线包|离线包
-|:-:|:-:|:-:|:-:|
+|::-|:-:|:-:|:-:|
 |.NET Framework 4.7.2|[打开](https://support.microsoft.com/en-us/help/4054530)|[下载](https://dotnet.microsoft.com/download/thank-you/net472)|[下载](http://go.microsoft.com/fwlink/?linkid=863265)
 |.NET Framework 4.7.1|[打开](https://support.microsoft.com/en-us/help/4033342)|[下载](https://dotnet.microsoft.com/download/thank-you/net471)|[下载](http://go.microsoft.com/fwlink/?linkid=852107)
 |.NET Framework 4.7|[打开](https://support.microsoft.com/en-us/help/3186497)|[下载](https://dotnet.microsoft.com/download/thank-you/net47)|[下载](http://go.microsoft.com/fwlink/?linkid=825302)
@@ -98,9 +75,3 @@ Microsoft DirectX 是这样一组技术：它们旨在使基于 Windows 的计�
 * [百度云 网盘下载](https://pan.baidu.com/s/1jH76Ir0) 密码：`131k`
 
 > [网盘下载](https://pan.baidu.com/s/1krBIbFR8qxVzZIL-6-qFZw#list/path=/App/Microsoft/MSVCVB&parentPath=/App) 
-
-# 网卡驱动
-* 解压出“filece.dll”和“nicdrv.dll”，用[windows硬件安装向导](https://zhidao.baidu.com/question/21947667.html)来安装
-
-> [蓝奏云 网盘下载](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
-> [百度云 网盘下载](https://pan.baidu.com/s/1Cf2AsghGEVoW7JC1KarJZw#list/path=/软件/Kingsoft/驱动精灵/提取版网卡&parentPath=/软件)

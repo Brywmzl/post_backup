@@ -1,7 +1,6 @@
 ﻿---
 layout:     post
 title:      Bandicam[屏幕录像]
-subtitle:   https://www.bandicam.com/
 date:       2017-11-14
 author:     Brywmzl
 tags: [Bandicam,屏幕录像]

@@ -3,7 +3,6 @@ layout:     post
 title:      CHK Recover
 date:       2018-11-10
 author:     Brywmzl
-catalog: true
 tags: [磁盘工具]
 categories: [系统工具]
 ---

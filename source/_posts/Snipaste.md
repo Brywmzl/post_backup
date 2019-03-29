@@ -1,11 +1,8 @@
 ﻿---
 layout:     post
 title:      Snipaste
-subtitle:   这是一款良心软件 开发者非常用心 强迫症的福利 真的非常优秀
 date:       2017-12-02
 author:     Brywmzl
-header-img: img/Snipaste/Snipaste_2017-12-02_09-51-49.jpg
-catalog: true
 tags: [截屏工具]
 
 ---

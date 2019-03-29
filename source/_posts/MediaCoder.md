@@ -1,11 +1,8 @@
 ﻿---
 layout:     post
 title:      MediaCoder
-subtitle:   MediaCoder是一款影音格式转换软件
 date:       2018-08-08
 author:     Brywmzl
-header-img: img/MediaCoder/bg.jpg
-catalog: true
 tags: [MediaCoder]
 categories: [视频编辑]
 ---

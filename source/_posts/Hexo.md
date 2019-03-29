@@ -136,8 +136,29 @@ http://www.materialpalette.com/
 # 在Github搭建Hexo
 
 ## 设置Github项目名称
-就是项目名为 `UesrName.Github.io`
-搭建过的都知道
+就是项目名为 `用户名.Github.io`
+搭建过的都知道，不详细说明
+
+## 出现问题
+重装系统后可能导致两个问题
+一个是github的登录没掉了，还有一个就是git的配置
+git 只需改环境变量 这个百度有
+而登录的话发现https登录的时候产生问题了，所以改用生产 ssh密钥
+[hexo迁移重装](http://shomy.top/2017/01/27/hexo-migrate-solution/)
+
+### 生成 ssh 密钥
+`ssh-keygen -t rsa -C "用户名"`
+生成过程中需要输入两次密码
+而在git里输入密码时不显示的
+然后去github自己头像下面有个setting 里添加
+然后登录的时候`_config.yml`需要改成
+```
+deploy:
+  type: git
+  repo: ssh://git@github.com/Brywmzl/Brywmzl.github.io.git
+  branch: master
+```
+提交的时候会提醒输入密码~
 
 # 附加
 

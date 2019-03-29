@@ -2,9 +2,7 @@
 layout:     post
 title:      DiskGenius
 date:       2018-12-23
-author:     http://diskgenius.cn
-header-img: img/DiskGenius/bg.jpg
-catalog: true
+author:     Brywmzl
 tags: [DiskGenius]
 categories: [磁盘芯片]
 ---

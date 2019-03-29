@@ -1,11 +1,8 @@
 ﻿---
 layout:     post
 title:      Telerik Fiddler
-subtitle:   最专业的网络调试工具
 date:       2018-01-05
 author:     Brywmzl
-header-img: img/Fiddler/banner_promotional_section.png
-catalog: true
 tags: [Telerik Fiddler]
 categories: [网络工具]
 ---

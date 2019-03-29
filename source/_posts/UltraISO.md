@@ -1,14 +1,10 @@
 ﻿---
 layout:     post
 title:      UltraISO
-subtitle:   最专业的ISO工具
 date:       2018-01-05
 author:     Brywmzl
-header-img: img/UltraISO/bg.jpg
-catalog: true
 tags: [UltraISO,软碟通]
 categories: [系统工具]
-
 ---
 最专业的ISO工具
 

@@ -1,7 +1,6 @@
 ﻿---
 layout:     post
 title:      Luxion KeyShot
-subtitle:   惊艳的视觉效果 快速的实时渲染
 date:       2019-03-07
 author:     Brywmzl
 tags: [Keyshot]
@@ -294,10 +293,17 @@ The KeyShot Cloud is accessible directly from inside KeyShot. When a user is log
 
 Rather than posting here, please share your resources on KeyShot Cloud. If you have shared a resource here in the past, open the corresponding scene in KeyShot and select Upload from the KeyShot Library Window after selecting the resource to upload.
 
-# 材质包语言补丁
+# 材质包重命名工具
 ![](/img/Brywmzl/KSMLP.png)
-* 支持双语（材质名称不建议使用双语，在icon view下名称太长的会被掩盖）
-* 目录树和文件可选补丁
-* 该补丁可覆盖补丁，但没有还原选项，请自行备份
+* 文件或文件夹可以拖放导入
+* 材质mtl文件和文件夹分开可选
+* 支持双语分开可选（材质名称不建议使用双语，在图标视图下名称太长后面的基本看不见）
+* 同时支持hex（十六进制）
+* 勾选 invert 可还原（如果带双语请勾选双语，否则不起作用，有个不好的地方就是，当值出现多个相同的时候会出现多个匹配结果，此时会被跳过）
+* 修复正则符号导致的匹配不成立
+* 双击进度条上面的文字可以保存日志（日志还不是很全面）
+* 允许多次覆盖
+* 支持记录字典选项
+* 支持自动识别 Keyshot 1~9 默认资源路径
 
-> [蓝奏云 网盘下载](https://)
+> [蓝奏云 网盘下载](https://www.lanzous.com/b652975)

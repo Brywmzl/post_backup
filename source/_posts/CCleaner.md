@@ -1,11 +1,8 @@
 ﻿---
 layout:     post
 title:      CCleaner [垃圾清理]
-subtitle:   这是一款优秀的系统垃圾清理工具
 date:     2017-11-09
 author:     Brywmzl
-header-img: img/CCleaner/bg.jpg
-catalog: false
 tags: [CCleaner]
 categories: [系统工具]
 ---

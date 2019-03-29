@@ -1,11 +1,8 @@
 ﻿---
 layout:     post
 title:      Capture One
-subtitle:   这是一款 RAW 转换和图像编辑软件
 date:       2018-4-19
 author:     Brywmzl
-header-img: img/CaptureOne/bg.jpg
-catalog: true
 tags: [Capture One]
 categories: [图像处理]
 ---

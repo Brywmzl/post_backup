@@ -1,7 +1,6 @@
 ﻿---
 layout:     post
 title:      Registry Workshop
-subtitle:   最专业的注册表工具 他比系统自带的regedit更全面
 date:       2018-10-19
 author:     Brywmzl
 tags: [Registry Workshop,注册表]

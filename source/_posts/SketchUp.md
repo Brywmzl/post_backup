@@ -1,11 +1,8 @@
 ﻿---
 layout:     post
-title:      SketchUp Pro [草图大师]
-subtitle:   以 3D 形式设计、记录和传达创意的最直观方式
+title:      SketchUp Pro
 date:       2018-06-04
 author:     Brywmzl
-header-img: img/sketchup/bg0.jpg
-catalog: true
 tags: [SketchUp,草图大师]
 categories: [三维建模]
 

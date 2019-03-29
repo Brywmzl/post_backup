@@ -1,11 +1,8 @@
 ﻿---
 layout:     post
 title:      ABBYY FineReader
-subtitle:  FineReader是一款OCR和PDF一体化应用程序
 date:       2018-01-22
 author:     Brywmzl
-header-img: img/ABBYY FineReader/bg.png
-catalog: true
 tags: [OCR]
 
 ---

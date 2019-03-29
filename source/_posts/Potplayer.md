@@ -1,11 +1,8 @@
 ﻿---
 layout:     post
 title:      Potplayer
-subtitle:   这是一款优秀的播放器
 date:       2018-01-04
 author:     Brywmzl
-header-img: img/Potplayer/bg.jpg
-catalog: true
 tags: [Potplayer,播放器]
 categories: [系统工具]
 ---

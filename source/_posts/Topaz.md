@@ -1,11 +1,8 @@
 ﻿---
 layout:     post
 title:      Topaz
-subtitle:   https://topazlabs.com
 date:       2018-08-12
 author:     Brywmzl
-header-img: img/topazlabs/bottles_before2.jpg
-catalog: true
 tags: [Topaz,Topaz DeNoise,Topaz Glow,Ps插件]
 categories: [图像处理]
 ---

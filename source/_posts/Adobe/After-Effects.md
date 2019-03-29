@@ -16,7 +16,7 @@ Adobe After Effects 是Adobe公司推出的一款图形视频处理软件
 # 插件
 
 ## FXConsole [Ae特效管理控制工具]
-![](https://www.videopanda.net/wp-content/uploads/2017/07/plugin-fx-console-tim-kiem-hieu-ung.jpg)
+![](/img/Adobe/AE/plugin-fx-console-tim-kiem-hieu-ung.jpg)
 * 简介
 	* VideoCopilot  网站又出品了一款强大的 AE特效管理控制工具插件，且完全免费。
 	* AK大神也给我们详细介绍了插件的使用和用途，下面网盘下载里面会有
@@ -54,19 +54,21 @@ Adobe After Effects 是Adobe公司推出的一款图形视频处理软件
 ![](/img/Adobe/AE/2.png)
 > [appnee](https://appnee.com/red-giant-complete-suite-universal-serial-numbers-collection/)
 > [官方网站](http://www.redgiant.com/products/trapcode-suite/)
+> [TCSuite_Win_Full.zip](https://downloads.redgiant.com/redgiant/products/singlesuites/trapcode/TCSuite_Win_Full.zip)
+> [TCSuite_Mac_Full.zip](https://downloads.redgiant.com/redgiant/products/singlesuites/trapcode/TCSuite_Mac_Full.zip)
 > [Download Red Giant Link](https://www.redgiant.com/link/)
 > [网盘下载](https://pan.baidu.com/s/1dF30ekx#list/path=/App/Adobe/_Plug-ins/Ae/TrapcodeSuite&parentPath=/App)
 
 |VERSION|SERIAL CODE|
 |:-:|:-:|
-|V14.0 \ V15.0|`TCBK2245868172939255`|
-
+|14.0.0~15.1.1|`TCBK2245868172939255`
 
 ## GenArts Sapphire [蓝宝石]
 ![](/img/Adobe/AE/GAS.png)
 > [网盘下载](https://pan.baidu.com/s/1dF30ekx#list/path=/App/Adobe/_Plug-ins/Ae/蓝宝石插件&parentPath=/App)
 
 ## REFlex [变脸插件]
+> [bilibili 教程](https://www.bilibili.com/video/av44815718/)
 > [网盘下载](https://pan.baidu.com/s/1dF30ekx#list/path=/App/Adobe/_Plug-ins/Ae/Revisionfx REFlex&parentPath=/App)
 >- Name : `Team AMPED`  
 >- Code : `sXBIsG2YihoWHltG`  

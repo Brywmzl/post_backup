@@ -1,11 +1,8 @@
 ﻿---
 layout:     post
 title:      Moo0 系列软件
-subtitle:  http://zhs.moo0.com
 date:       2018-01-22
 author:     Brywmzl
-header-img: img/Moo0/bg.jpg
-catalog: true
 tags:
 categories: [系统工具]
 ---

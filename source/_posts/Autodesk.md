@@ -1,11 +1,8 @@
 ﻿---
 layout:     post
 title:      Autodesk 系列软件
-subtitle:  https://www.autodesk.com
 date:       2018-12-23
 author:     Brywmzl
-header-img: img/Autodesk/2018/bg.jpg
-catalog: true
 tags: [Autodesk,CAD,3ds Max,Maya]
 categories: [三维建模]
 ---
@@ -23,6 +20,7 @@ https://www.autodesk.com
 > [网盘下载](https://pan.baidu.com/s/1L_ODYvhDTVDifAYKLGhTEw)
 
 # 官方下载
+* [AutoDesk 2015, 2016, 2017, 2018 & 2019 All Products Download Links](https://autodesk.rg-adguard.net/index.php)
 * [所有产品](https://knowledge.autodesk.com/support)  
 	* [3ds Max 官方下载](https://knowledge.autodesk.com/support/3ds-max/downloads)
 	* [AutoCAD 官方下载](https://knowledge.autodesk.com/support/autocad/downloads)
@@ -154,9 +152,9 @@ https://www.autodesk.com
 |[Autodesk_2018_V3_KeyGen_X-FORCE.7z](https://www.lanzous.com/i2ogakh)
 |[Autodesk_2018_V1_KeyGen_X-FORCE.7z](https://www.lanzous.com/i2ogahe)
 |[Autodesk_2017_KeyGen_X-FORCE.7z](https://www.lanzous.com/i2ogafc)
-|[Autodesk_2016_KeyGen_X-FORCE.7z](https://www.lanzous.com/i2ogacj)
+|[Autodesk_2016_KeyGen_X-FORCE.7z](https://www.lanzous.com/i3gqlgh)
 |[Autodesk_2015_KeyGen_X-FORCE.7z](https://www.lanzous.com/i2ogaah)
-|[Autodesk_2014_KeyGen_X-FORCE.7z](https://www.lanzous.com/i2oga7e)
+|[Autodesk_2014_KeyGen_X-FORCE.7z](https://www.lanzous.com/i3gqlij)
 |[Autodesk_2013_KeyGen_X-FORCE.7z](https://www.lanzous.com/i2oga4b)
 |[Autodesk_2012_KeyGen_X-FORCE.7z](https://www.lanzous.com/i2oga0h)
 |[Autodesk_2011_KeyGen_X-FORCE.7z](https://www.lanzous.com/i2og9yf)

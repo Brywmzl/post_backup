@@ -1,10 +1,8 @@
 ﻿---
 layout:     post
 title:      Rhinoceros
-subtitle:   超级强大而轻量级的NURBS建模软件
-date:       2019-02-28
+date:       2019-03-20
 author:     Brywmzl
-catalog: true
 tags: [Rhino,犀牛]
 categories: [三维建模]
 ---
@@ -16,7 +14,8 @@ Rhino（全称：Rhinoceros，又名：Rhino3D）是一款轻量级但非常强�
 
 * [官方网站](https://www.rhino3d.com/)  
 * [appnee](http://appnee.com/rhino/)  
-* [Rhino 6全功能列表](https://www.rhino3d.com/6/features)  
+* [Rhino 6 全功能列表](https://www.rhino3d.com/6/features)
+* [Rhino 6 系统需求](https://www.rhino3d.com/6/system_requirements)
 * [Rhino Official Gallery](https://www.rhino3d.com/gallery)  
 
 # 下载
@@ -29,6 +28,7 @@ Rhino（全称：Rhinoceros，又名：Rhino3D）是一款轻量级但非常强�
 
 |更新日期|计算结果|Windows 64-bit|
 |:-:|:-:|:-:|
+|2019-03-19|2019-03-19|[rhino_zh-cn_6.14.19078.12411.exe](http://files.mcneel.com/dujour/exe/20190319/rhino_zh-cn_6.14.19078.12411.exe)|
 |2019-02-27|2019-02-27|[rhino_zh-cn_6.13.19058.00371.exe](http://files.mcneel.com/dujour/exe/20190227/rhino_zh-cn_6.13.19058.00371.exe)|
 |2019-01-31|2019-01-31|[rhino_zh-cn_6.13.19031.05531.exe](http://files.mcneel.com/dujour/exe/20190131/rhino_zh-cn_6.13.19031.05531.exe)|
 |2019-01-29|2019-01-29|[rhino_zh-cn_6.12.19029.06381.exe](http://files.mcneel.com/dujour/exe/20190129/rhino_zh-cn_6.12.19029.06381.exe)|
@@ -97,9 +97,19 @@ https://files.mcneel.com/dujour/exe/20190131/rhino_zh-cn_languagepack_6.13.19031
 
 # 安装说明
 
-## Rhino 6 安装说明
+## Rhino 6
 
-* 安装目录下替换“RhinoCore.dll”文件
+**MPT34M**
+
+![](/img/Rhino/MPT34M.png)
+
+> [Rhino.6.SR13.Patch-MPT.zip](https://www73.zippyshare.com/v/OVZ5y8ql/file.html)
+> [蓝奏云 网盘下载](https://www.lanzous.com/b635367)
+
+> 1.点击右边的怪物 {% emoji space_invader %}
+> 2.右键左下角框框 "Copy to clipboard" 
+> 3.随便找个地方粘贴看看是 {% emoji hear_no_evil %} "File patched! OK" 还是  {% emoji see_no_evil %} "Nothing patched! ERROR" ~
+---
 
 **毛子补丁**
 * 在一个[毛子网站](https://rsload.net/soft/editor/29750-rhinoceros.html)发现一个[Rhino_6_Patch.zip](https://www.lanzous.com/i337a0d)
@@ -107,7 +117,12 @@ https://files.mcneel.com/dujour/exe/20190131/rhino_zh-cn_languagepack_6.13.19031
 * 目前可以通杀 6.10.18242.16581~6.12.19029.06381（目测能够到 6.12 最终版本）
 * 目前测试不适用于 6.13.19031.05531（测试版）
 
-## Rhino 5 安装说明
+---
+
+**传统方法**
+* 安装目录下替换“RhinoCore.dll”文件
+
+## Rhino 5
 
 * 断网后打开 `C:\Windows\System32\drivers\etc\hosts`
 * 添加hosts: `127.0.0.1 www2.rhino3d.com` (防止许可被吊销)

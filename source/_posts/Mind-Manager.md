@@ -1,11 +1,8 @@
 ﻿---
 layout:     post
 title:      Mind Manager
-subtitle:  MindManager可以帮助您将自由浮动的信息转化为清晰，可操作的计划，以推动结果。
 date:       2018-10-12
 author:     Brywmzl
-header-img: img/MindManager/mindmanager-mindmapping-software-business-people.png
-catalog: true
 tags: [思维导图]
 categories: [思维导图]
 ---

@@ -1,13 +1,10 @@
 ﻿---
 layout:     post
 title:      Blender
-subtitle:   创造自由从这里开始
 date:       2018-06-23
 author:     Brywmzl
-header-img: img/Blender/ghost_driver_lukas_walzer.jpg
-catalog: true
 tags: [Blender]
-
+categories: [三维建模]
 ---
 创造自由从这里开始
 
@@ -18,7 +15,7 @@ tags: [Blender]
  
 [官方网站](https://www.blender.org)  
 
-## 下载
->- [官方下载](https://www.blender.org/download/)
->- [Download Blender 2.79b](https://www.blend4web.com/blender/release/Blender2.79/blender-2.79b-windows64.msi)
->- [网盘下载](https://pan.baidu.com/s/1gcVyFHHncawj95zCQHhapw)  
+# 下载
+> [官方下载](https://www.blender.org/download/)
+> [Download Blender 2.79b](https://www.blend4web.com/blender/release/Blender2.79/blender-2.79b-windows64.msi)
+> [网盘下载](https://pan.baidu.com/s/1gcVyFHHncawj95zCQHhapw)  

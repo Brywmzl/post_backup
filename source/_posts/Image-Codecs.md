@@ -3,7 +3,6 @@ layout:     post
 title:      Image Codecs
 date:       2019-01-12
 author:     Brywmzl
-catalog: true
 tags: [缩略图]
 categories: [系统工具]
 ---

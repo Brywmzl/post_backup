@@ -1,11 +1,8 @@
 ﻿---
 layout:     post
 title:      YouTube Downloader Pro
-subtitle:   YouTube Downloader Pro用于从视频网站下载和转换格式
 date:       2018-07-13
 author:     Brywmzl
-header-img: img/YoutubeDownloadPro/header.jpg
-catalog: true
 tags: 
 categories: [下载工具]
 ---

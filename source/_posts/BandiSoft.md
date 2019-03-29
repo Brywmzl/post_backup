@@ -1,11 +1,8 @@
 ﻿---
 layout:     post
 title:      BandiSoft
-subtitle:   最好用的图片查看器和压缩软件都在这里
 date:       2018-06-20
 author:     Brywmzl
-header-img: img/BandiSoft/bg.jpg
-catalog: true
 tags: [BandiSoft,图片查看器,压缩工具]
 categories: [系统工具]
 ---

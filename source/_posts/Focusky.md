@@ -3,7 +3,6 @@ layout:     post
 title:      Focusky
 date:       2018-11-06
 author:     Brywmzl
-catalog: true
 tags: []
 categories: [办公应用]
 ---
@@ -34,6 +33,8 @@ Focusky 可输出格式有：在线上传云作品（可分享到微信展示）
 > [Download For Mac](http://focusky.com/download/index.php?platform=mac)
 
 # 安装说明
+
+> [Focusky.3.7.12.Premium.Patch.And.Cracked-MPT.zip](https://www109.zippyshare.com/v/a0DgEQ1p/file.html)
 
 超级激活码：`OTYW-MGFK-MWI5-NDE3-OTU4`
 

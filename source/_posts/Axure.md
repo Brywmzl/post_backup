@@ -1,11 +1,8 @@
 ﻿---
 layout:     post
 title:      Axure
-subtitle:   这是一个专门做交互的软件
 date:       2018-03-12
 author:     Brywmzl
-header-img: img/Axure/bg.jpg
-catalog: true
 tags: [交互]
 categories: [思维导图]
 ---

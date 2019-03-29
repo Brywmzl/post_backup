@@ -1,11 +1,8 @@
 ﻿---
 layout:     post
 title:      TinyPNG and TinyJPG
-subtitle:   在画质良好的情况下压缩图像的文件大小
 date:       2018-02-21
 author:     Brywmzl
-header-img: img/tinypng/bg.jpg
-catalog: true
 tags: [Ps插件]
 categories: [图像处理]
 

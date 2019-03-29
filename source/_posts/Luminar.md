@@ -1,11 +1,8 @@
 ﻿---
 layout:     post
 title:      Luminar
-subtitle:   专业照片滤镜缩短后期编辑
 date:       2018-08-16
 author:     Brywmzl
-header-img: img/luminar/ls-af.jpg
-catalog: true
 tags: [Luminar]
 categories: [图像处理]
 ---

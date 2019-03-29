@@ -3,7 +3,6 @@ layout:     post
 title:      FolderChangesView
 date:       2018-10-29
 author:     Brywmzl
-catalog: true
 tags: []
 categories: [系统工具]
 ---

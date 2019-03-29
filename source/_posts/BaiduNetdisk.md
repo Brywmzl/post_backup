@@ -10,9 +10,9 @@ https://pan.baidu.com
 <!--more-->
 
 # 下载
-> [Speedpan（推荐）](http://speedpan.com) 
+> [Pan Download（推荐）](http://pandownload.com)
 > [proxyee-down](https://github.com/monkeyWie/proxyee-down)  
-> [Pan Download](http://pandownload.com)
+> [Speedpan](https://www.speedpan.com) 有免费版和收费版
 
 # Motrix
 > [Motrix 官网](https://motrix.app/zh-CN/)

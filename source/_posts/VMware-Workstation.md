@@ -1,11 +1,8 @@
 ﻿---
 layout:     post
 title:      VMware Workstation
-subtitle:   VMware是功能最强大的虚拟机软件
 date:       2018-11-28
 author:     Brywmzl
-header-img: img/VMware/bg.jpg
-catalog: true
 tags: [VMware Workstation,虚拟机]
 categories: []
 ---
