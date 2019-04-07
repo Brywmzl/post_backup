@@ -123,7 +123,6 @@ https://files.mcneel.com/dujour/exe/20190131/rhino_zh-cn_languagepack_6.13.19031
 * 安装目录下替换“RhinoCore.dll”文件
 
 ## Rhino 5
-
 * 断网后打开 `C:\Windows\System32\drivers\etc\hosts`
 * 添加hosts: `127.0.0.1 www2.rhino3d.com` (防止许可被吊销)
 * 打开Keygen.exe 点击 `Generate`生成

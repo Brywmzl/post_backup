@@ -10,11 +10,25 @@ https://www.microsoft.com
 
 <!--more-->
 
-查询许可：`cscript ospp.vbs /dstatus`（在Office目录下 文件-以管理员身份打开 Windows PowerShell）
+|描述|命令
+|::-|::-
+|查询许可（以管理员身份打开 ）|`cscript "C:\Program Files\Microsoft Office\Office16\ospp.vbs" /dstatus`
+|卸载许可（以管理员身份打开）|`cscript "C:\Program Files\Microsoft Office\Office16\ospp.vbs" /unpkey:WFG99`
+|刷新许可（以管理员身份打开）|`cscript "C:\Program Files\Microsoft Office\Office16\ospp.vbs" /remhst`
+|安装密钥|`wscript.exe slmgr.vbs /ipk XXXXX-XXXXX-XXXXX-XXXXX-XXXXX`
+|查询激活信息|`wscript.exe slmgr.vbs -xpr`
+|查询激活详细信息|`wscript.exe slmgr.vbs -dlv`
+|卸载产品密钥（记得以管理员）|`wscript.exe slmgr.vbs /upk`
+|设置ksm服务器|`wscript.exe slmgr.vbs /skms kms.03k.org`
+
+# 下载
+> [Office Tool](https://otp.landian.vip/)
 
 # Office 2019
 
-> Office 2019 激活码 : `W8W6K-3N7KK-PXB9H-8TD8W-BWTH9`
+|版本|激活码
+|:-:|:-:
+|Office 2019 Proplus VOL|key：`MMN76-PHCG7-WKQGT-FG27B-DPGT3` ErrorCode：`020`
 
 |版本|文件
 |:-:|:-:

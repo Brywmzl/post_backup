@@ -22,3 +22,26 @@ https://www.microsoft.com
 |家庭高级版 X64|[7601.24214.180801-1700.win7sp1_ldr_escrow_CLIENT_HOMEPREMIUM_x64FRE_en-us.iso](http://download.microsoft.com/download/E/A/8/EA804D86-C3DF-4719-9966-6A66C9306598/7601.24214.180801-1700.win7sp1_ldr_escrow_CLIENT_HOMEPREMIUM_x64FRE_en-us.iso)
 |X86 简体中文语言包|[windows6.1-kb972813-x86-zh-cn_ab024143b556395e6638e26712b1e0f3bc031fcf.exe](http://download.windowsupdate.com/msdownload/update/software/updt/2009/08/windows6.1-kb972813-x86-zh-cn_ab024143b556395e6638e26712b1e0f3bc031fcf.exe)
 |X64 简体中文语言包|[windows6.1-kb2483139-x64-zh-cn_2c1884b4fdf6c8e91986369d88bbcaae01c6f187.exe](http://download.windowsupdate.com/msdownload/update/software/updt/2011/02/windows6.1-kb2483139-x64-zh-cn_2c1884b4fdf6c8e91986369d88bbcaae01c6f187.exe)
+
+# 其他
+## 如何获取Win10最高管理员权限
+* 打开组策略（`gpedit.msc`）
+* 计算机配置 {% emoji point_right %} Windows 设置 {% emoji point_right %} 安全设置 {% emoji point_right %} 本地策略 {% emoji point_right %}
+	* {% emoji no_entry %} 禁用“ 用户账户控制：以管理员批准模式运行所有管理员”
+	* {% emoji no_entry %}  禁用“ 用户账户控制：用于内置管理员账户的管理员批准模式”
+
+[原文](https://blog.csdn.net/yanhanhui1/article/details/82746357)
+
+## 如何用防火墙屏蔽软件联网
+**方法1**
+* 必须打开防火墙
+* 打开“Windows Defender防火墙”（`WF.msc`）
+* 出站 {% emoji point_right %} 新建规则 {% emoji point_right %} 程序（然后找到他。。。） {% emoji point_right %} {% emoji no_entry_sign %} 阻止
+
+**方法2**
+* 必须打开防火墙
+* 打开 `控制面板\系统和安全\Windows Defender 防火墙\允许的应用`
+* 允许其他应用（然后找到他。。。）网络类型都选上
+* 取消该程序前面的对勾
+
+[原文](https://jingyan.baidu.com/article/f25ef25410e4ee482d1b8211.html)

@@ -15,6 +15,8 @@ https://docs.redshift3d.com/display/RSDOCS
 
 # [Cameras（摄像机）](https://docs.redshift3d.com/display/RSDOCS/Cameras)
 
+# [Lights（灯光）](https://docs.redshift3d.com/display/RSDOCS/Lights)
+<iframe src="//player.bilibili.com/player.html?aid=24157471&cid=40486493&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="530" width="670">> </iframe>
 # [Shader（着色器节点）](https://docs.redshift3d.com/display/RSDOCS/Shaders)
 
 ## [Material Shaders（材质）](https://docs.redshift3d.com/display/RSDOCS/Material+Shaders)
@@ -63,3 +65,50 @@ This is the user-defined time value. Only applicable when Source is set to 'User
 ## Color
 
 ### Color Layer
+
+# Volume Topics
+## [Volumetric Scattering And Fog（体积光和雾）](https://docs.redshift3d.com/display/RSDOCS/Volumetric+Scattering+And+Fog)
+<iframe src="//player.bilibili.com/player.html?aid=24632282&cid=41401990&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="530" width="670"> </iframe>
+
+# 渲染设置
+## 基本
+<a href="https://docs.redshift3d.com/display/RSDOCS/Motion+Blur"><strong><font face="微软雅黑" size=5 color=ed1c24>运动模糊</font></strong></a>
+<a href="https://docs.redshift3d.com/display/RSDOCS/Motion+Blur#MotionBlur-EnableDeformationBlur"><strong><font face="微软雅黑" size=4 color=ed1c24>Enable Deformation Blur（启用变形模糊）</font></strong></a>
+Deformation blur (tracking the motion of vertices) can be memory-intensive especially for high-poly or displaced geometry. For this reason, it has a separate switch to enable/disable. If most of your scene's motion is due to rigid body animation or camera movement, you can leave this option disabled.
+<strong><font face="微软雅黑" size=4 color=ed1c24>Transformation Steps（转型步骤）</font></strong>
+这个数值越大，过渡约圆滑（如图所示）
+<img src="/img/Learn/Redshift/0.png" />
+
+---
+
+<strong><font face="微软雅黑" size=4 color=ed1c24>Frame Duration（帧持续时间）</font></strong>
+这个参数和Oc的 <font face="微软雅黑" size=3 color=55b103>Shutter[sec.]（快门）</font> 是一样的，越大越模糊
+
+---
+
+<strong><font face="微软雅黑" size=4 color=ed1c24>Shutter Position（快门位置）</font></strong>
+这个参数和Oc的 <font face="微软雅黑" size=3 color=55b103>Shutter alignment（快门对齐）</font>是一样的，就连选项都一样 这个翻译的有点抽象，其实也很好理解
+
+|Shutter Position(Reshfit)|Shutter alignment(Octane)|描述
+|::-|::-|:-:
+|<font size=4 color=ed1c24>Center on Frame</font>|<font face="微软雅黑" size=3 color=55b103>Centered</font>|中
+|<font size=4 color=ed1c24>Start on Frame</font>|<font face="微软雅黑" size=3 color=55b103>Before</font>|前
+|<font size=4 color=ed1c24>End on Frame</font>|<font face="微软雅黑" size=3 color=55b103>After</font>|后
+
+不过 Redshift 有一点好就是，可以用 <font face="微软雅黑" size=3 color=ed1c24>Start on Frame</font> 和 <font face="微软雅黑" size=3 color=ed1c24>End on Frame</font> 这两个参数控制开始和结束的多少
+
+---
+
+<a href="https://docs.redshift3d.com/display/RSDOCS/Motion+Blur#MotionBlur-ShutterEfficiency"><strong><strong><font face="微软雅黑" size=4 color=ed1c24>Shutter Efficiency（快门效率）</font></strong></a>
+这个参数最大值1，比较难解释（如图所示）
+<img src="/img/Learn/Redshift/1.png" />
+
+## AOV（任意输出变量）
+AOV stands for "arbitrary output variables"
+<iframe src="//player.bilibili.com/player.html?aid=24981571&cid=42201458&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="530" width="670"> </iframe>
+
+## Optimization（优化）
+
+## GI（全局光照）
+GI 全称 "Global Illumination"
+* 66

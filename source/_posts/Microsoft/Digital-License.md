@@ -1,7 +1,7 @@
 ﻿---
 layout:     post
 title:        Windows 10 数字许可 (HWID) & KMS38™
-date:       2019-03-26
+date:       2019-04-01
 author:     Brywmzl
 tags: [Microsoft,Windows,HWID,KMS,微软]
 categories: [办公应用]
@@ -15,15 +15,6 @@ HWIDGEN是一款由Nsane论坛成员s1ave77制作的Windows 10数字权利激活
 **KMS38™** 可以激活 Windows10 的所有版本，KMS离线激活有效期到2038年。
 
 [nsaneforums page](https://www.nsaneforums.com/topic/312871-windows-10-digital-license-hwid-kms38%E2%84%A2-generation/)
-
-# 常用命令
-
-|描述|命令
-|::-|::-
-|安装密钥|`slmgr.vbs /ipk XXXXX-XXXXX-XXXXX-XXXXX-XXXXX`
-|查询激活信息|`slmgr.vbs -xpr`
-|查询激活详细信息|`slmgr.vbs -dlv`
-|卸载产品密钥（记得以管理员）|`slmgr /upk`
 
 # 使用说明
 注意：尝试从默认 KMS 切换到 KMS38™（长期）激活时，通过从下拉菜单中选择，然后运行 KMS38 过程; 如果没有安装 Office，请在“**Clean**”模式（相同菜单）中重复进行，如果安装了 Office，则使用“**Rearm**”。
@@ -51,31 +42,47 @@ HWIDGEN是一款由Nsane论坛成员s1ave77制作的Windows 10数字权利激活
 # HWID.KMS38﻿﻿™GEN
 
 |文件|网盘下载|
-|::-|:-:|
-|[thk3_mk6.7z](https://www.upload.ee/files/9714080/thk3_mk6.7z.html)|[蓝奏云](https://www.lanzous.com/i3k61fa)|
+|::-|::-|
+|thk4_mk6.7z|[upload.ee](https://www.upload.ee/files/9771159/thk4_mk6.7z.html) {% raw %}|{% endraw %} [nofile.io](https://nofile.io/f/ABGXnHZeb1h/thk4_mk6.7z) {% raw %}|{% endraw %} [蓝奏云](https://www.lanzous.com/i3mf9od)|
+|thk3_mk6.7z|[upload.ee](https://www.upload.ee/files/9714080/thk3_mk6.7z.html) {% raw %}|{% endraw %} [蓝奏云](https://www.lanzous.com/i3k61fa)|
 
 ![](/img/Microsoft/hwid.png)
-***右上角下拉菜单***
-**HWID:**
-支持所有版本，但不支持 LTSC 2019 和 Server。
-**KMS38:**
-支持所有版本的 LTSC 2019 和 Server。
-**HWID Key:**
-安装 KMS38 和real KMS 使用的通用默认密钥。
-**Clean:**
-使用此功能清除系统KMS激活的系统的180天限制。
-如果 Office 也安装了KMS激活请不要使用此功能！在这种情况下请参阅“Rearm”。这将重建许可证文件。如果出现错误，请重新启动！
-**Rearm:**
-使用此功能清除系统KMS激活的系统的180天限制。
-仅供安装 Office 使用，使用该选项后需要重启（强制！）。
-**SetOnline and SetOffline:**
-更改网络适配器状态以 “启用”/“禁用”状态。
-**LicenseSwitch:**
-许可证升级：Core(N) [Home(N)]  升级到 Professional(N) 使用该选项后需要重启（强制！）。
-注意：不可逆转！回去需要重新安装。
-LICENSE-SWITCH：从版本1803开始，所有的其他版本都是虚拟切换。使用该选项后需要重启（强制！）。
-*（安装程序基本上安装了针对相应版本启用了产品策略的企业版。因此，许可证交换机只会更改产品策略，并且在重新启动后会激活所有版本特定功能）。*
-按“ESC”退出。
+<div style="text-align:center;"><strong><font size=5 color=095da3>USE THE MODE DROP-DOWN-MENU TOP-RIGHT.</font></strong></div>
+
+<table><tr><td bgcolor=0067b3><font face="微软雅黑" style="line-height:1;">
+<strong><font size=3 color=ffffff>HWID:</font></strong>
+<font size=2 color=ffffff>支持所有版本，但不支持 LTSC 2019 和 Server。</font>
+
+<strong><font size=3 color=ffffff>KMS38:</font></strong>
+<font size=2 color=ffffff>支持所有版本的 LTSC 2019 和 Server。</font>
+
+<strong><font size=3 color=ffffff>HWID Key:</font></strong>
+<font size=2 color=ffffff>安装支持 HWID 版本的通用默认密钥。</font>
+
+<strong><font size=3 color=ffffff>gVLIK:</font></strong>
+<font size=2 color=ffffff>安装 KMS38 和真实 KMS 使用的通用默认密钥。</font>
+
+<strong><font size=3 color=ffffff>Clean:</font></strong>
+<font size=2 color=ffffff>使用此功能清除系统KMS激活的系统的180天限制。</font>
+<font size=2 color=ffffff>如果 Office 也安装了KMS激活请不要使用此功能！在这种情况下请参阅“Rearm”。这将重建许可证文件。如果出现错误，请重新启动！</font>
+
+<strong><font size=3 color=ffffff>Rearm:</font></strong>
+<font size=2 color=ffffff>使用此功能清除系统KMS激活的系统的180天限制。</font>
+<font size=2 color=ffffff>仅供安装 Office 使用，使用该选项后需要重启（强制！）。</font>
+
+<strong><font size=3 color=ffffff>SetOnline and SetOffline:</font></strong>
+<font size=2 color=ffffff>更改网络适配器状态以 “启用”/“禁用”状态。</font>
+
+<strong><font size=3 color=ffffff>LicenseSwitch:</font></strong>
+<font size=2 color=ffffff>许可证升级：Core(N) [Home(N)]  升级到 Professional(N) 使用该选项后需要重启（强制！）。</font>
+<font size=2 color=ffffff>注意：不可逆转！回去需要重新安装。</font>
+<font size=2 color=ffffff>LICENSE-SWITCH：从版本1803开始，所有的其他版本都是虚拟切换。使用该选项后需要重启（强制！）。</font>
+
+<font size=1 color=ffffff>（安装程序基本上安装了针对相应版本启用了产品策略的企业版。因此，许可证交换机只会更改产品策略，并且在重新启动后会激活所有版本特定功能）。</font>
+
+<font size=4 color=ffffff>按“ESC”退出。</font>
+</font>
+</td></tr></table>
 
 # DigitalLicense C{% raw %}#{% endraw %}（吾爱版）
 
@@ -86,33 +93,33 @@ LICENSE-SWITCH：从版本1803开始，所有的其他版本都是虚拟切换�
 # REWORKED MANUAL PROCESS FOR HWID AND KMS38（手动模式）
 
 |文件|网盘下载|
-|:-:|:-:|
-|[manual.7z](https://www.upload.ee/files/9580116/manual.7z.html)|[蓝奏云](https://www.lanzous.com/i3l85eb)|
+|:-:|::-|
+|manual.7z|[upload.ee](https://www.upload.ee/files/9580116/manual.7z.html) {% raw %}|{% endraw %} [蓝奏云](https://www.lanzous.com/i3l85eb)|
 
 **The Process﻿:﻿﻿**
-* 1. 把文件复制到工作文件夹, 在 AV（应该是网络适配器）中创建排除或临时禁用. 我以 d:\work 为例。
-* 2. 安装默认通用密钥。 KMS38默认密钥 或 HWID的OEMRET。
+* 1 . 把文件复制到工作文件夹, 在 AV（应该是网络适配器）中创建排除或临时禁用. 我以 d:\work 为例。
+* 2 . 安装默认通用密钥。 KMS38默认密钥 或 HWID的OEMRET。
 	* `cscript.exe %windir%\system32\slmgr.vbs /ipk XXXXX-XXXXX-XXXXX-XXXXX-XXXXX`
-* 2. **KMS38**: 使用演示IP范围创建虚拟KMS地址条目。
+* 2 . **KMS38**: 使用演示IP范围创建虚拟KMS地址条目。
 	*  `cscript.exe %windir%\system32\slmgr.vbs -skms 192.0.2.69:1833`
-* 3. 根据进程选择，将 slshim DLL 版本重命名为 slc.dll。
-* 3. **LTSB 2015**: 把 gatherosstateLTSB15.exe 重命名为 gatherosstate.exe (重命名或者覆盖)。
-* 4. 创建包含你的版本的 SKU-ID 的目标 SKU.txt。
-* 5. 通过双击运行 gatherosstate.exe。
-* 6. 申请门票:
+* 3 . 根据进程选择，将 slshim DLL 版本重命名为 slc.dll。
+* 3 . **LTSB 2015**: 把 gatherosstateLTSB15.exe 重命名为 gatherosstate.exe (重命名或者覆盖)。
+* 4 . 创建包含你的版本的 SKU-ID 的目标 SKU.txt。
+* 5 . 通过双击运行 gatherosstate.exe。
+* 6 . 申请门票:
 	*  `clipup -v -o -altto d:\work\`
 	*   (注意后面 \)
 * 6 .**HWID**: 强制激活:
 	*  `cscript.exe %windir%\system32\slmgr.vbs /ato`
-* 7. 恭喜。完成。
+* 7 . 恭喜。完成。
 
 # AUTOMATED METHOD（自动化方法）
-***In case any VPN is used, deactivate it for the process duration. Same applies for Antivirus.***
-***如果使用任何VPN，请在操作期间禁用。杀病毒软件也是。***
+<font size=3 color=b6b6b6>In case any VPN is used, deactivate it for the process duration. Same applies for Antivirus.
+如果使用任何VPN，请在操作期间禁用。杀病毒软件也是。</font>
 
 |文件|网盘下载|
-|:-:|:-:|
-|[{% raw %}_oem_.7z{% endraw %}](https://www.upload.ee/files/9720058/_oem_.7z)|[蓝奏云](https://www.lanzous.com/i3l85da)|
+|:-:|::-|
+|{% raw %}_oem_.7z{% endraw %}|[upload.ee](https://www.upload.ee/files/9720058/_oem_.7z) {% raw %}|{% endraw %} [蓝奏云](https://www.lanzous.com/i3l85da)|
 
 **SetupComplete.cmd** *with automated edition detection for Client SKUs (no Servers except EnterpriseRdsh):﻿﻿*
 

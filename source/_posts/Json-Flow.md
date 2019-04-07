@@ -1,11 +1,8 @@
 ﻿---
 layout:     post
 title:      Json Flow
-subtitle:   这是一键处理json安排事件的工具
 date:       2019-01-13
 author:     Brywmzl
-header-img: img/json_flow/bg.jpg
-catalog: true
 tags: []
 categories: [Brywmzl]
 ---

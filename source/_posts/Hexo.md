@@ -264,6 +264,28 @@ https://github.com/edolphin-ydf/hexo-encrypt
 {% endraw %}
 ```
 
+```
+<font face="黑体">我是黑体字</font>
+<font face="微软雅黑">我是微软雅黑</font>
+<font face="STCAIYUN">我是华文彩云</font>
+<font color=red>我是红色</font>
+<font color=#008000>我是绿色</font>
+<font color=Blue>我是蓝色</font>
+<font size=5>我是尺寸</font>
+<font face="黑体" color=green size=5>我是黑体，绿色，尺寸为5</font>
+<strong><font size=5>我是加粗</font></strong>
+<a href="链接"><strong><font color=37668b>标题</font></strong></a>
+<div align="right"><strong><font size=5 color=0470a1>标题</font></strong></div>
+```
+
+left：左对齐内容。
+right：右对齐内容。
+center：居中对齐内容。
+justify：对行进行伸展，这样每行都可以有相等的长度（就像在报纸和杂志中）。
+
+[原文](https://blog.csdn.net/heimu24/article/details/81189700)
+[](http://www.w3school.com.cn/tags/att_div_align.asp)
+
 ## 自定义页面
 
 [自定义页面](https://gist.github.com/yscoder/0fd1332c2b8bef21115cbaa20f11d7ce)

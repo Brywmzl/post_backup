@@ -50,11 +50,78 @@ https://docs.redshift3d.com/display/RSDOCS
 * 为什么开启Alpha channel 玻璃材质还是不透明的原因
 
 ---
+
 # 节点
 ## Dirt 脏
 * 在我看来他就是redshift的ao节点
 * 增强自身投影用的
 * 参数...
+
+<table><tr><td bgcolor=f0f0f0>
+<strong><font size=4 color=bd2e2e>Material（材质）</font></strong>
+Octane Material：Octane 材质
+Mix Material：混合材质
+
+<strong><font size=4 color=37668b>Textures（纹理）</font></strong>
+Image Texture：图像纹理
+Rgb Spectrum：RGB 光谱
+Gaussian Spectrum：高斯光谱
+Float：浮点
+W Coordinate：世界坐标
+Baking texture：烘培纹理
+
+<strong><font size=4 color=323644>Other（其他）</font></strong>
+Projection：投射
+Transform：变换
+
+<strong><font size=4 color=378b49>Generators（生成）</font></strong>
+Checks：棋盘格
+Dirt：污垢
+Falloff map：衰减贴图
+Marble：大理石
+Noise：噪波
+Random Color：随机颜色
+Ridged Fractal：脊椎分形
+Sine Wave：正弦波
+Sude：侧面
+Turbulence：湍流
+Instance Color：实例颜色
+Instance Range：实例范围
+
+<strong><font size=4 color=8b374e>Mapping（贴图映射）</font></strong>
+Clamp Texture：修剪纹理
+Color Correction：颜色校正
+Cosine mix：余弦混合
+Gradient：渐变
+Invert：反向
+Mix：混合
+Multiply：相乘
+Add：添加
+Subtract：减去
+Comparison：比较
+Triplanar：三平面
+Uvw Transform：Uvw变形
+
+Displacement：置换
+
+<strong><font size=4 color=66378b>Emissions（发光）</font></strong>
+Blackbody Emission：黑体发光
+Texture Emission：纹理发光
+
+<strong><font size=4 color=378b80>Medium（介质）</font></strong>
+Absorption Medium：吸收介质
+Scattering Medium：散射介质
+
+<strong><font size=4 color=989898>C4D</font></strong>
+Vertex Map：顶点贴图
+Mg Color Shader：Mg 颜色着色器
+Mg Multi Shader：Mg 多重着色器
+Bitmap：位图
+Colorizer：彩色化
+Gradinent：渐变
+Noise：噪波
+RefShader：参考着色器
+</td></tr></table>
 
 ---
 

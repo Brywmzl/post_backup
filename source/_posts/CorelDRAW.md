@@ -10,12 +10,14 @@ categories: [图像处理]
 最受欢迎的领先矢量图形设计师
 
 <!--more-->
-
+<table><tr><td bgcolor=008ca1><font face="微软雅黑" color=ffffff style="line-height:1;">
 CorelDRAW Graphics Suite是一款非常流行的图形设计软件，具有功能强大且易于使用的功能，由加拿大Corel公司于1989年首次推出。许多杂志封面，电影海报，产品商标，书籍插图......我们可以看到在日常生活中都是用它来设计的。如今，CorelDRAW Graphics Suite已成为大多数图形设计人员必备的Photoshop软件之一。
 
 CorelDRAW Graphics Suite引入了全色矢量插图和布局的新概念，填补了这些领域的空白。其非凡的设计能力广泛应用于商标设计，标识制作，模型制作，插图，排版，分色输出等诸多领域。它的受欢迎程度可以用事实来说明 - 绝大多数用于商业设计或图形设计的计算机都安装了CorelDRAW Graphics Suite。
 
 无论您是新兴艺术家，还是经验丰富的高级平面设计师，CorelDRAW Graphics Suite都是适用于各种平面设计作品的可靠软件解决方案。借助内置的帮助手册，培训视频和专业设计模板，您很快就能够随意表达自己独特的设计风格和创意。
+
+</font></td></tr></table>
 
 [官方网站](https://www.coreldraw.com/en/product/coreldraw/)  
 [CorelDRAW 中文网站](http://www.coreldrawchina.com/)  
@@ -25,13 +27,24 @@ CorelDRAW Graphics Suite引入了全色矢量插图和布局的新概念，填�
 
 # 下载
 
-|磁链（右键复制下载）|
-|::--|
-|[Corel2019Retails（零售版）](magnet:?xt=urn:btih:5A8D81E039D0EA474CCECC78F43FCD1C82882F52)|
-|[CorelDRAW Graphics Suite 2018 Retails v20.0.0.633（官方多语言零售版正式版）](magnet:?xt=urn:btih:E3E167775428DAE8739DA073A11FA8DA183E3960)|
-|[Coreldraw Graphics Suite X8 Update 1 Multi Retail (ISO) - Full.rar（完整版）](magnet:?xt=urn:btih:B7E7E7A35EEFF0BCA235B08152FD58B656A1D297)|
+|链接（磁链右键复制下载）
+|::-
+|[CorelDRAW Graphics Suite 2019﻿ - Corporate（企业版）](http://corel.com/akdlm/6763/downloads/ELD/CDGS/2019/CorelDRAWGraphicsSuite2019InstallerMF02.iso)
+|[Corel2019Retails（零售版）](magnet:?xt=urn:btih:5A8D81E039D0EA474CCECC78F43FCD1C82882F52)
+|[CorelDRAW Graphics Suite 2018 Retails v20.0.0.633（官方多语言零售版正式版）](magnet:?xt=urn:btih:E3E167775428DAE8739DA073A11FA8DA183E3960)
+|[CorelDRAW Technical Suite 2018 - Retail（零售版）](http://corel.com/akdlm/6763/downloads/ELD/CDTS/2018/CorelDRAWTechnicalSuite2018Installer-EN_DE_FR_IT_NL_ES_BR_CZ_PL_RU_CT_CS_JP_TR.iso)
+|[CorelDRAW Gr﻿aphics Suite 2017 19.0.0.32﻿8](http://www.corel.com/akdlm/6763/downloads/free/trials/GraphicsSuite/2017/CorelDRAWGraphicsSuite2017Installer_RW.exe﻿)
+|[CorelDRAW Technical﻿ Suite 2017 - Retail（零售版）](http://corel.com/akdlm/6763/downloads/ELD/CDTS/2017/CorelDRAWTechnicalSuite2017Installer-EN_DE_FR_IT_NL_ES_BR_CZ_PL_RU_CT_CS_JP_TR_01.iso)
+|[Coreldraw Graphics Suite X8 Update 1 Multi Retail (ISO) - Full.rar（完整版）](magnet:?xt=urn:btih:B7E7E7A35EEFF0BCA235B08152FD58B656A1D297)
 
-> [Corel Products KeyGen](https://www.lanzous.com/b349208)
+<select style="height:32px;" id="list"><option 
+value='https://www.lanzous.com/i3gfi9g'>Corel.X3-X11.All.Products.Universal.Keygen.2019.7z</option><option 
+value='https://www.lanzous.com/i1pfkja'>Corel.X3-X10.All.Products.Universal.Keygen.2018.V3.7z</option><option 
+value='https://www.lanzous.com/i1pfkij'>Corel.X3-X10.All.Products.Universal.Keygen.2018.V2.7z</option><option 
+value='https://www.lanzous.com/i1pfkmd'>Corel.X3-X10.All.Products.Universal.Keygen.2018.7z</option><option 
+value='https://www.lanzous.com/i1pfkkb'>Corel.X3-X9.All.Products.Universal.Keygen.2017.V3.7z</option>
+</select><button style="height:32px;width:100px;" onclick="window.open(document.getElementById('list').options[document.getElementById('list').selectedIndex].value,target='_blank')"><font face="微软雅黑" size=2>注册机下载</font></button>
+
 > [网盘下载](https://pan.baidu.com/s/1EyDC9cbxnA2T24iWsMgJ6w#list/path=%2FApp%2FCorel%2FCorelDRAW&parentPath=%2FApp) 提取码：6666
 
 # 安装说明
